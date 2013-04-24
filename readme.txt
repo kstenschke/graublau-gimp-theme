@@ -1,8 +1,6 @@
 Graublau Icon Theme for the GIMP
 =================================
 
-
-
 Authors & License
 =================
 Created in 2013 by Kay Stenschke
@@ -26,36 +24,35 @@ Stuttgart                 | Pc.de                  | http://pc.de/icons/        
 Tango Icons               | Tango Desktop Project  | http://tango.freedesktop.org/            | http://www.gnu.org/copyleft/gpl.html
 
 
-
 Installation
 ============
 1. Copy the Graublau folder into the \Themes\ folder of your GIMP 2.8 installation.
+2. Start the GIMP and activate the theme by selecting it via: Edit > Preferences > Theme
 
 Linux:   Copy the theme into the (hidden) directory: \Home\.GIMP\.theme
 Windows: Copy the theme into: C: > Users > YOUR_USER_NAME > .gimp-2.8 > themes
 
-2. Start the GIMP and activate the theme by selecting it via: Edit > Preferences > Theme
-
-
 
 Icons variants and modifications
 ================================
-For most icons in this theme, there's a colored "active", and an "inactive" version which has been reduced to grayscale and opacity between 70% and 80%.
+For most icons in this theme, there's a colored "active", and an "inactive" version which has been 
+reduced to grayscale and opacity between 70% and 80%.
 
-To achieve optimal "crisp" icons with intact elements such as outlines, gradients, shadows, etc, down-scaling is done manually and not calculational.
-None of the icons has been scaled up.
+To achieve optimal "crisp" icons with intact elements such as outlines, gradients, shadows, etc,
+down-scaling is done manually and not calculational. None of the icons has been scaled up.
 
 To achieve an overall harmonic look, several icons have been adapted in some ways:
   -size and colors (main non-grey color is blueish now in all icons) adjusted
-	-removed or replaced sub elements (arrows, shadows, etc.)
-	-corrected contrast and brightness
-	-added shadows
+  -removed or replaced sub elements (arrows, shadows, etc.)
+  -corrected contrast and brightness
+  -added shadows
 
 
 
 Icons Source Reference
 ======================
-Icons from the original GIMP iconset that are used unchanged or with little adaptions to fit the theme are not listed in the following reference.
+Icons from the original GIMP iconset that are used unchanged or with little adaptions to fit the 
+theme are not listed in the following reference.
 
 
 GIMP Filename                        | Icon Set                              | Name
