@@ -1,2 +1,0 @@
-graublau-gimp-theme
-===================
