@@ -30,7 +30,7 @@ Installation
 ------------
 1. Copy the Graublau folder into the \Themes\ folder of your GIMP 2.8 installation.
 2. Start the GIMP and activate the theme by selecting it via: Edit > Preferences > Theme 
-3. Restart Gimp for the theme to be activated
+3. Restart GIMP for the theme to be activated
 
 * Linux:   Copy the theme into the (hidden) directory: \Home\.GIMP\.theme
 * Windows: Copy the theme into: C: > Users > YOUR_USER_NAME > .gimp-2.8 > themes.
