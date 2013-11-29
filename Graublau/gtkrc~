@@ -29,8 +29,6 @@ style "gimp-default-style"
   stock["gtk-go-down"] = {{ "images/gtk/stock-go-down.png", *, *, * }}
   stock["gtk-go-up"] = {{ "images/gtk/stock-go-up.png", *, *, * }}
   stock["gtk-new"] = {{ "images/gtk/stock-new.png", *, *, * }}
-  stock["gtk-redo"] = {{ "images/gtk/stock-redo.png", *, *, * }}
-  stock["gtk-undo"] = {{ "images/gtk/stock-undo.png", *, *, * }}
 
  font_name = "DejaVu Sans Condensed 10"
 # font_name = "Verdana 7"

@@ -14,12 +14,14 @@ Most of the icons have been altered in some ways to create an overall harmonic t
 
 | Icon Set                 |       Author          | Website                                | License
 | ------------------------ | --------------------- | -------------------------------------- | -------------------------------------------------
-| Batch                    | Adam Whitcroft        | http://adamwhitcroft.com/batch/        | Open Source, no special license
+| Basic Set                | Pixel Mixer           | http://www.pixel-mixer.com/            | Free for commercial use
+| Bijou                    | Visual Idiot          | visualidiot.com                        | WTFPL
 | Centigrade MedicalSeries | Centrigade            | http://www.centigrade.de/              | http://creativecommons.org/licenses/by/3.0/us/
 | Crystal Project          | Everaldo Coelho       | http://www.everaldo.com/               | http://www.gnu.org/copyleft/lesser.html
-| Düsseldorf               | Pc.de                 | http://pc.de/icons/                    | http://creativecommons.org/licenses/by/3.0/
+| Discovery                | Hbons                 | http://hbons.deviantart.com            | http://creativecommons.org/licenses/by-sa/3.0/
 | Farm Fresh               | FatCow Web Hosting    | http://www.fatcow.com/                 | http://creativecommons.org/licenses/by/3.0/us/
 | Fugue Icons              | P. Yusukekamiyamane   | http://p.yusukekamiyamane.com/         | http://creativecommons.org/licenses/by/3.0/
+| Humanity Icons           | Various               | https://launchpad.net/humanity         | http://www.gnu.org/licenses/gpl-2.0.html
 | Iconic                   | P.J. Onori            | http://somerandomdude.com/work/iconic/ | http://creativecommons.org/licenses/by-sa/3.0/us/
 | Momentum Glossy Icons    | Momentum Design Lab   | http://momentumdesignlab.com/          | http://creativecommons.org/licenses/by-sa/3.0/
 | Stuttgart                | Pc.de                 | http://pc.de/icons/                    | http://creativecommons.org/licenses/by/3.0/
@@ -59,16 +61,31 @@ theme are not listed in the following reference.
 
 | GIMP Filename     | Icon Set          | Name                    |
 | ----------------- | ----------------- | ----------------------- |
-| stock-anchor      | Batch             | anchor                  |
-| stock-edit        | Stuttgart         | edit                    |
+| stock-anchor      | Bijou             | anchor                  |
+| stock-duplicate   | Farm Fresh        | layer_stack_arrange     | 
+| stock-edit        | Humanity Icons    | stock_edit              |
 | stock-navigation  | Crystal Project   | move                    |
-| stock-reset       | Fugue Icons       | arrow-return-180-left   |
+| stock-reset       | Humanity Icons    | reload                  |
 | stock-layers      | Farm Fresh        | layer_stack_arrange     |
 | stock-channels    | Farm Fresh        | layer_rgb               |
 
+
+###GTK Icons
+
+| Gimp Filename          | Icon Set               | Name                        |
+| ---------------------- | ---------------------- | --------------------------- |
+| gtk-delete             | Humanity Icons         | editdelete                  |
+| gtk-directory          | Humanity Icons         | gtk-directoy                |
+| gtk-go-down            | Humanity Icons         | gtk-go-down                 |
+| gtk-go-up              | Humanity Icons         | gtk-go-up                   |
+| gtk-new                | Humanity Icons         | gtk-new                     |
+| gtk-redo               | Discovery              | edit-redo                   |
+| gtk-undo               | Discovery              | edit-undo                   |
+
+
 ###Tool Icons
 
-| GIMP Filename                   | Icon Set                      | Name
+| GIMP Filename                   | Icon Set                      | Name                           |
 | ------------------------------- | ----------------------------- | ------------------------------ |
 | stock-tool-align                | Crystal Project               | stock_graphics-align-centered  | 
 | stock-tool-blend                | Crystal Project               | gradient                       |

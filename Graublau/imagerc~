@@ -16,8 +16,11 @@
 # widget <widget_set> style <style_name>
 # widget_class <widget_class_set> style <style_name>
 
-#style "gimp-default-style"
-#{
+style "gimp-default-style"
+{
+   stock["gtk-folder"] =
+     {{ "images/stock-folder.png", *, *, * }}
+
 #  stock["gtk-dialog-error"] =
 #    {{ "images/stock-error-64.png", *, *, "gtk-dialog" }}
 #  stock["gtk-dialog-info"] =
@@ -26,7 +29,7 @@
 #    {{ "images/stock-question-64.png", *, *, "gtk-dialog" }}
 #  stock["gtk-dialog-warning"] =
 #    {{ "images/stock-warning-64.png", *, *, "gtk-dialog" }}
-#}
+}
 
 
 style "gimp-icons"
