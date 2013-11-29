@@ -12,28 +12,25 @@ include "imagerc"
 # class  <widget_class_set> style <style_name>
 
 
+# Do override some GTK stock icons
+# @see http://developer.gimp.org/api/2.0/gtk/gtk-Stock-Items.html
 style "gimp-default-style"
 {
-  stock["gtk-dialog-error"] =
-    {{ "../Default/images/stock-error-64.png", *, *, "gtk-dialog" }}
-  stock["gtk-dialog-info"] =
-    {{ "../Default/images/stock-info-64.png", *, *, "gtk-dialog" }}
-  stock["gtk-dialog-question"] =
-    {{ "../Default/images/stock-question-64.png", *, *, "gtk-dialog" }}
-  stock["gtk-dialog-warning"] =
-    {{ "../Default/images/stock-warning-64.png", *, *, "gtk-dialog" }}
-
-# @see http://developer.gimp.org/api/2.0/gtk/gtk-Stock-Items.html
+  stock["gtk-dialog-error"] = {{ "../Default/images/stock-error-64.png", *, *, "gtk-dialog" }}
+  stock["gtk-dialog-info"] = {{ "../Default/images/stock-info-64.png", *, *, "gtk-dialog" }}
+  stock["gtk-dialog-question"] = {{ "../Default/images/stock-question-64.png", *, *, "gtk-dialog" }}
+  stock["gtk-dialog-warning"] = {{ "../Default/images/stock-warning-64.png", *, *, "gtk-dialog" }}
   stock["gtk-delete"] = {{ "images/gtk/stock-delete.png", *, *, * }}
   stock["gtk-directory"] = {{ "images/gtk/stock-directory.png", *, *, * }}
   stock["gtk-go-down"] = {{ "images/gtk/stock-go-down.png", *, *, * }}
   stock["gtk-go-up"] = {{ "images/gtk/stock-go-up.png", *, *, * }}
   stock["gtk-new"] = {{ "images/gtk/stock-new.png", *, *, * }}
   stock["gtk-redo"] = {{ "images/gtk/stock-redo.png", *, *, * }}
+  stock["gtk-refresh"] = {{ "images/gtk/stock-refresh.png", *, *, * }}
   stock["gtk-undo"] = {{ "images/gtk/stock-undo.png", *, *, * }}
 
- font_name = "DejaVu Sans Condensed 10"
-# font_name = "Verdana 7"
+font_name = "Droid Sans 11"
+# font_name = "DejaVu Sans Condensed 10"
 
 # Enabling the following line for some reason breaks toolbox resize
 # increment calculation. You can enable it to get an even smaller GUI
@@ -44,7 +41,7 @@ style "gimp-default-style"
   GtkOptionMenu::indicator_size    = { 1, 1 } #{ 5, 11 }
   GtkOptionMenu::indicator_spacing = { 1, 1, 1, 1 } #{ 4, 3, 1, 1 }
 
-  GtkPaned::handle_size             = 1 #5
+  GtkPaned::handle_size             = 3 #5
   GimpDock::default_height          = 240
   GimpDockSeparator::height         = 1 #5
   GimpMenuDock::minimal_width       = 200
@@ -69,16 +66,18 @@ style "gimp-default-style"
   GimpSpinScale::default-border = { 0 0 0 0 }
 }
 
-class "GtkWidget" style "gimp-default-style"
 
+
+class "GtkWidget" style "gimp-default-style"
 
 style "gimp-tool-dialog-style" = "gimp-default-style"
 {
   GtkDialog::action_area_border = 0 #6
 }
 
-class "GimpToolDialog" style "gimp-tool-dialog-style"
 
+
+class "GimpToolDialog" style "gimp-tool-dialog-style"
 
 style "gimp-grid-view-style" = "gimp-default-style"
 {
@@ -86,7 +85,6 @@ style "gimp-grid-view-style" = "gimp-default-style"
 }
 
 widget "*GimpContainerGridView*GtkViewport*" style "gimp-grid-view-style"
-
 
 style "gimp-dockable-style" = "gimp-default-style"
 {
@@ -99,11 +97,16 @@ widget "*GimpDockable.*" style "gimp-dockable-style"
 
 style "gimp-display-style" = "gimp-default-style"
 {
-  GimpRuler::font-scale          = 0.66
+  GimpRuler::font-scale          = 0.6
+#  GimpUnitComboBox::label-scale = 0.6
+#  GimpScaleComboBox::label-scale = 0.6
+#  GtkComboBox::arrow-size = 8
+#  GtkButton::inner-border = { 0, 0, 0, 0 }
+#  GtkWidget::focus-line_width = 1
+#  GtkWidget::focus-padding = 0
 }
 
 widget "*GimpDisplayShell.*" style "gimp-display-style"
-
 
 style "gimp-overlay-style" = "gimp-display-style"
 {

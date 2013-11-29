@@ -16,19 +16,6 @@
 # widget <widget_set> style <style_name>
 # widget_class <widget_class_set> style <style_name>
 
-#style "gimp-default-style"
-#{
-#  stock["gtk-dialog-error"] =
-#    {{ "images/stock-error-64.png", *, *, "gtk-dialog" }}
-#  stock["gtk-dialog-info"] =
-#    {{ "images/stock-info-64.png", *, *, "gtk-dialog" }}
-#  stock["gtk-dialog-question"] =
-#    {{ "images/stock-question-64.png", *, *, "gtk-dialog" }}
-#  stock["gtk-dialog-warning"] =
-#    {{ "images/stock-warning-64.png", *, *, "gtk-dialog" }}
-#}
-
-
 style "gimp-icons"
 {
 
@@ -77,12 +64,6 @@ style "gimp-icons"
       { "images/stock-navigation-16.png", *, *, * },
       { "images/stock-navigation-16.png", *, ACTIVE, "gtk-menu" }
     }
-   stock["gimp-undo-history"] =
-    {
-      { "images/stock-undo-history-c16.png", *, *, "gtk-menu" },
-      { "images/stock-undo-history-16.png", *, *, * },
-      { "images/stock-undo-history-16.png", *, ACTIVE, "gtk-menu" }
-    }
    stock["gimp-paths"] =
     {
       { "images/stock-paths-c16.png", *, *, "gtk-menu" },
@@ -99,6 +80,19 @@ style "gimp-icons"
       { "images/stock-selection-c16.png", *, *, "gtk-menu" },
       { "images/stock-selection-16.png", *, *, * },
       { "images/stock-selection-16.png", *, ACTIVE, "gtk-menu" }
+    }
+   stock["gimp-undo-history"] =
+    {
+      { "images/stock-undo-history-c16.png", *, *, "gtk-menu" },
+      { "images/stock-undo-history-16.png", *, *, * },
+      { "images/stock-undo-history-16.png", *, ACTIVE, "gtk-menu" }
+    }
+    stock["gimp-visible"] =
+    {
+        {"images/stock-eye-12.png", *, *, "gtk-button" },
+        {"images/stock-eye-16.png", *, *, "gtk-button" },
+        {"images/stock-eye-20.png", *, *, "gtk-button" },
+        {"images/stock-eye-24.png", *, *, * }
     }
 
 
