@@ -12,21 +12,22 @@ The icons used in this theme are based on icons from multiple different open sou
 Most of the icons have been altered in some ways to create an overall harmonic theme.
 
 
-| Icon Set                 |       Author          | Website                                | License
-| ------------------------ | --------------------- | -------------------------------------- | -------------------------------------------------
-| Basic Set                | Pixel Mixer           | http://www.pixel-mixer.com/            | Free for commercial use
-| Bijou                    | Visual Idiot          | http://visualidiot.com                 | WTFPL
-| Centigrade MedicalSeries | Centrigade            | http://www.centigrade.de/              | http://creativecommons.org/licenses/by/3.0/us/
-| Crystal Project          | Everaldo Coelho       | http://www.everaldo.com/               | http://www.gnu.org/copyleft/lesser.html
-| Diagona Icons            | Yusuke Kamiyamane     | http://http://p.yusukekamiyamane.com/  | http://creativecommons.org/licenses/by/3.0/
-| Discovery                | Hbons                 | http://hbons.deviantart.com            | http://creativecommons.org/licenses/by-sa/3.0/
-| Farm-fresh               | FatCow Web Hosting    | http://www.fatcow.com/                 | http://creativecommons.org/licenses/by/3.0/us/
-| Fugue Icons              | P. Yusukekamiyamane   | http://p.yusukekamiyamane.com/         | http://creativecommons.org/licenses/by/3.0/
-| Humanity Icons           | Various               | https://launchpad.net/humanity         | http://www.gnu.org/licenses/gpl-2.0.html
-| Iconic                   | P.J. Onori            | http://somerandomdude.com/work/iconic/ | http://creativecommons.org/licenses/by-sa/3.0/us/
-| Momentum Glossy Icons    | Momentum Design Lab   | http://momentumdesignlab.com/          | http://creativecommons.org/licenses/by-sa/3.0/
-| Stuttgart                | Pc.de                 | http://pc.de/icons/                    | http://creativecommons.org/licenses/by/3.0/
-| Tango Icons              | Tango Desktop Project | http://tango.freedesktop.org/          | http://www.gnu.org/copyleft/gpl.html
+| Icon Set                 |       Author          | Website                                  | License
+| ------------------------ | --------------------- | ---------------------------------------- | -------------------------------------------------
+| Basic Set                | Pixel Mixer           | http://www.pixel-mixer.com/              | Free for commercial use
+| Bijou                    | Visual Idiot          | http://visualidiot.com                   | WTFPL
+| Centigrade MedicalSeries | Centrigade            | http://www.centigrade.de/                | http://creativecommons.org/licenses/by/3.0/us/
+| Crystal Project          | Everaldo Coelho       | http://www.everaldo.com/                 | http://www.gnu.org/copyleft/lesser.html
+| Diagona Icons            | Yusuke Kamiyamane     | http://http://p.yusukekamiyamane.com/    | http://creativecommons.org/licenses/by/3.0/
+| Discovery                | Hbons                 | http://hbons.deviantart.com              | http://creativecommons.org/licenses/by-sa/3.0/
+| Farm-fresh               | FatCow Web Hosting    | http://www.fatcow.com/                   | http://creativecommons.org/licenses/by/3.0/us/
+| Fugue Icons              | P. Yusukekamiyamane   | http://p.yusukekamiyamane.com/           | http://creativecommons.org/licenses/by/3.0/
+| Humanity Icons           | Various               | https://launchpad.net/humanity           | http://www.gnu.org/licenses/gpl-2.0.html
+| Iconic                   | P.J. Onori            | http://somerandomdude.com/work/iconic/   | http://creativecommons.org/licenses/by-sa/3.0/us/
+| Momentum Glossy Icons    | Momentum Design Lab   | http://momentumdesignlab.com/            | http://creativecommons.org/licenses/by-sa/3.0/
+| Stuttgart                | Pc.de                 | http://pc.de/icons/                      | http://creativecommons.org/licenses/by/3.0/
+| Tango Icons              | Tango Desktop Project | http://tango.freedesktop.org/            | http://www.gnu.org/copyleft/gpl.html
+| Ultimate Gnome           | New Moon              | http://code.google.com/p/ultimate-gnome/ | http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 
 Installation
@@ -39,8 +40,8 @@ Installation
 * Windows: Copy the theme into: C: > Users > YOUR_USER_NAME > .gimp-2.8 > themes.
 
 
-Icons variants and modifications
---------------------------------
+Icon Variants and Modifications
+-------------------------------
 For most icons in this theme, there's a colored "active", and an "inactive" version which has been 
 reduced to grayscale and opacity between 70% and 80%.
 
@@ -48,10 +49,10 @@ To achieve optimal "crisp" icons with intact elements such as outlines, gradient
 down-scaling is done manually and not calculational. None of the icons has been scaled up.
 
 To achieve an overall harmonic look, several icons have been adapted in some ways:
-* size and colors (main non-grey color is blueish now in all icons) adjusted
-* removed or replaced sub elements (arrows, shadows, etc.)
-* corrected contrast and brightness
-* added shadows
+* Size and colors (main non-grey color is blueish now in all icons) adjusted
+* Removed or replaced sub elements (arrows, shadows, etc.)
+* Corrected contrast and brightness
+* Added shadows
 
 
 Icons Source Reference
@@ -60,16 +61,19 @@ Icons from the original GIMP iconset that are used unchanged or with little adap
 theme are not listed in the following reference.
 
 
-| GIMP Filename     | Icon Set          | Name                    |
-| ----------------- | ----------------- | ----------------------- |
-| stock-anchor      | Bijou             | anchor                  |
-| stock-duplicate   | Farm Fresh        | layer_stack_arrange     | 
-| stock-edit        | Humanity Icons    | stock_edit              |
-| stock-eye         | Farm-fresh        | eye                     |
-| stock-navigation  | Crystal Project   | move                    |
-| stock-reset       | Humanity Icons    | reload                  |
-| stock-layers      | Farm Fresh        | layer_stack_arrange     |
-| stock-channels    | Farm Fresh        | layer_rgb               |
+| GIMP Filename                | Icon Set          | Name                    |
+| ---------------------------- | ----------------- | ----------------------- |
+| stock-anchor                 | Bijou             | anchor                  |
+| stock-channels               | Farm Fresh        | layer_rgb               |
+| stock-color-pick-from-screen | Ultimate Gnome    | computer                |
+| stock-duplicate              | Farm Fresh        | layer_stack_arrange     | 
+| stock-edit                   | Humanity Icons    | stock_edit              |
+| stock-eye                    | Farm-fresh        | eye                     |
+| stock-navigation             | Crystal Project   | move                    |
+| stock-layers                 | Gimp Default      | stock-text-layer        |
+| stock-reset                  | Humanity Icons    | reload                  |
+
+
 
 
 ###GTK Icons

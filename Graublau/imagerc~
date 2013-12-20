@@ -36,6 +36,15 @@ style "gimp-icons"
       { "images/stock-colormap-16.png", *, *, * },
       { "images/stock-colormap-16.png", *, ACTIVE, "gtk-menu" }
     }
+
+   stock["gimp-color-pick-from-screen"] =
+    {
+      { "images/stock-color-pick-from-screen-c16.png", *, *, "gtk-button" },
+      { "images/stock-color-pick-from-screen-c16.png", *, ACTIVE, "gtk-button" },
+      { "images/stock-color-pick-from-screen-c16.png", *, PRELIGHT, "gtk-button" },
+      { "images/stock-color-pick-from-screen-16.png", *, *, *            }
+    }
+
    stock["gimp-duplicate"] =
     {
       { "images/stock-duplicate-16.png", *, *, "gtk-button" },
@@ -97,6 +106,15 @@ style "gimp-icons"
 
 
 
+    stock["gimp-dynamics"] =
+    {
+        {"images/stock-eye-12.png", *, *, "gtk-button" },
+        {"images/stock-eye-16.png", *, *, "gtk-button" },
+        {"images/stock-eye-20.png", *, *, "gtk-button" },
+        {"images/stock-eye-24.png", *, *, * }
+    }
+
+
   # Toolbox icons
   #
 #  stock["gimp-default-colors"] =
@@ -154,13 +172,13 @@ style "gimp-icons"
       { "images/tools/stock-histogram-c22.png", *, PRELIGHT, "gtk-menu" },
       { "images/tools/stock-histogram-c22.png", *, *, *            }
     }
-  stock["gimp-color-pick-from-screen"] =
-    {
-      { "images/tools/stock-color-pick-from-screen-22.png", *, *, "gtk-button" },
-      { "images/tools/stock-color-pick-from-screen-c22.png", *, ACTIVE, "gtk-button" },
-      { "images/tools/stock-color-pick-from-screen-c22.png", *, PRELIGHT, "gtk-button" },
-      { "images/tools/stock-color-pick-from-screen-c22.png", *, *, *            }
-    }
+#  stock["gimp-color-pick-from-screen"] =
+#    {
+#      { "images/tools/stock-color-pick-from-screen-22.png", *, *, "gtk-button" },
+#      { "images/tools/stock-color-pick-from-screen-c22.png", *, ACTIVE, "gtk-button" },
+#      { "images/tools/stock-color-pick-from-screen-c22.png", *, PRELIGHT, "gtk-button" },
+#      { "images/tools/stock-color-pick-from-screen-c22.png", *, *, *            }
+#    }
   stock["gimp-edit"] =
     {
       { "images/tools/stock-edit-22.png", *, *, "gtk-button" },
