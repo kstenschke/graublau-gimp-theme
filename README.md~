@@ -18,7 +18,7 @@ Most of the icons have been altered in some ways to create an overall harmonic t
 | Bijou                    | Visual Idiot          | http://visualidiot.com                   | WTFPL
 | Centigrade MedicalSeries | Centrigade            | http://www.centigrade.de/                | http://creativecommons.org/licenses/by/3.0/us/
 | Crystal Project          | Everaldo Coelho       | http://www.everaldo.com/                 | http://www.gnu.org/copyleft/lesser.html
-| Diagona Icons            | Yusuke Kamiyamane     | http://http://p.yusukekamiyamane.com/    | http://creativecommons.org/licenses/by/3.0/
+| Diagona Icons            | Yusuke Kamiyamane     | http://p.yusukekamiyamane.com/           | http://creativecommons.org/licenses/by/3.0/
 | Discovery                | Hbons                 | http://hbons.deviantart.com              | http://creativecommons.org/licenses/by-sa/3.0/
 | Farm-fresh               | FatCow Web Hosting    | http://www.fatcow.com/                   | http://creativecommons.org/licenses/by/3.0/us/
 | Fugue Icons              | P. Yusukekamiyamane   | http://p.yusukekamiyamane.com/           | http://creativecommons.org/licenses/by/3.0/
