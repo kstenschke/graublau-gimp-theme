@@ -70,7 +70,6 @@ theme are not listed in the following reference.
 | stock-edit                   | Humanity Icons    | stock_edit              |
 | stock-eye                    | Farm-fresh        | eye                     |
 | stock-navigation             | Crystal Project   | move                    |
-| stock-layers                 | Gimp Default      | stock-text-layer        |
 | stock-reset                  | Humanity Icons    | reload                  |
 
 
