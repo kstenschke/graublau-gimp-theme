@@ -61,66 +61,66 @@ Icons from the original GIMP iconset that are used unchanged or with little adap
 theme are not listed in the following reference.
 
 
-| GIMP Filename                | Icon Set          | Name                    |
-| ---------------------------- | ----------------- | ----------------------- |
-| stock-anchor                 | Bijou             | anchor                  |
-| stock-channels               | Farm Fresh        | layer_rgb               |
-| stock-color-pick-from-screen | Ultimate Gnome    | computer                |
-| stock-duplicate              | Farm Fresh        | layer_stack_arrange     | 
-| stock-edit                   | Humanity Icons    | stock_edit              |
-| stock-eye                    | Farm-fresh        | eye                     |
-| stock-navigation             | Crystal Project   | move                    |
-| stock-reset                  | Humanity Icons    | reload                  |
+| GIMP Filename                | Icon Set          | Name                    | Icon |
+| ---------------------------- | ----------------- | ----------------------- | ---- |
+| stock-anchor                 | Bijou             | anchor                  | ![anchor](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-anchor-16.png?raw=true) |
+| stock-channels               | Farm Fresh        | layer_rgb               | ![channels](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-channels-c16.png?raw=true) |
+| stock-color-pick-from-screen | Ultimate Gnome    | computer                | ![colorfromscreen](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-color-pick-from-screen-c16.png?raw=true) |
+| stock-duplicate              | Farm Fresh        | layer_stack_arrange     | ![duplicate](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-duplicate-16.png?raw=true) | 
+| stock-edit                   | Humanity Icons    | stock_edit              | ![edit](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-edit-c16.png?raw=true) |
+| stock-eye                    | Farm-fresh        | eye                     | ![eye](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-eye-16.png?raw=true) |
+| stock-navigation             | Crystal Project   | move                    | ![navigation](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-navigation-c16.png?raw=true) |
+| stock-reset                  | Humanity Icons    | reload                  | ![reset](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-reset-c16.png?raw=true) |
 
 
 
 
 ###GTK Icons
 
-| Gimp Filename          | Icon Set               | Name                        |
-| ---------------------- | ---------------------- | --------------------------- |
-| gtk-delete             | Humanity Icons         | editdelete                  |
-| gtk-directory          | Humanity Icons         | gtk-directoy                |
-| gtk-go-down            | Humanity Icons         | gtk-go-down                 |
-| gtk-go-up              | Humanity Icons         | gtk-go-up                   |
-| gtk-new                | Humanity Icons         | gtk-new                     |
-| gtk-redo               | Discovery              | edit-redo                   |
-| gtk-refresh            | Diagona Icons          | 122                         |
-| gtk-undo               | Discovery              | edit-undo                   |
+| Gimp Filename          | Icon Set               | Name                        | Icon |
+| ---------------------- | ---------------------- | --------------------------- | ---- |
+| gtk-delete             | Humanity Icons         | editdelete                  | ![delete](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-delete.png?raw=true) |
+| gtk-directory          | Humanity Icons         | gtk-directoy                | ![directory](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-directory.png?raw=true) |
+| gtk-go-down            | Humanity Icons         | gtk-go-down                 | ![godown](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-down.png?raw=true) |
+| gtk-go-up              | Humanity Icons         | gtk-go-up                   | ![goup](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-up.png?raw=true) |
+| gtk-new                | Humanity Icons         | gtk-new                     | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-new.png?raw=true) |
+| gtk-redo               | Discovery              | edit-redo                   | ![redo](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-redo.png?raw=true) |
+| gtk-refresh            | Diagona Icons          | 122                         | ![refresh](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-refresh.png?raw=true) |
+| gtk-undo               | Discovery              | edit-undo                   | ![undo](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-undo.png?raw=true) |
 
 
 ###Tool Icons
 
-| GIMP Filename                   | Icon Set                      | Name                           |
-| ------------------------------- | ----------------------------- | ------------------------------ |
-| stock-tool-align                | Crystal Project               | stock_graphics-align-centered  | 
-| stock-tool-blend                | Crystal Project               | gradient                       |
-| stock-tool-blur                 | Fugue Icons                   | water                          |
-| stock-tool-bucket-fill          | Momentum Glossy               | paintbucket                    |
-| stock-tool-clone                | Fugue Icons                   | stamp                          |
-| stock-tool-color-picker         | Momentum Glossy               | eyedropper                     |
-| stock-tool-crop                 | Momentum Glossy               | exact-o                        |
-| stock-tool-dodge                | Fugue Icons                   | fire                           |
-| stock-tool-ellipse-select       | Farm Fresh                    | select                         |
-| stock-tool-eraser               | Farm Fresh                    | draw_erasor                    |
-| stock-tool-flip                 | Farm Fresh                    | shape_flip_horizontal          |
-| stock-tool-foreground-select    | none (created for this theme) | none (created for this theme)  |
-| stock-tool-free-select          | Farm Fresh                    | select_lasso                   |
-| stock-tool-fuzzy-select         | Farm Fresh                    | magic_wand                     |
-| stock-tool-heal                 | Centigrade MedicalSeries      | bandaid                        |
-| stock-tool-ink                  | Crystal Project               | stock_insert-fields-author     |
-| stock-tool-iscissors            | Momentum Glossy               | cut                            |
-| stock-tool-move                 | Farm Fresh                    | hand-tool                      |
-| stock-tool-options              | Batch                         | mixer                          |
-| stock-tool-paintbrush           | Momentum Glossy               | paintbrush                     |
-| stock-tool-path                 | Farm Fresh                    | vector                         |
-| stock-tool-pencil               | Momentum Glossy               | pencil                         |
-| stock-tool-perspective          | Farm Fresh                    | transform_perspective          |
-| stock-tool-rect-select          | Farm Fresh                    | select                         |
-| stock-tool-reset                | Tango Icons                   | go-jump                        |
-| stock-tool-rotate               | Farm Fresh                    | transform_rotate               |
-| stock-tool-scale                | Farm Fresh                    | transform_scale                |
-| stock-tool-shear                | Farm Fresh                    | transform_shear                |
-| stock-tool-smudge               | Farm Fresh                    | draw_smudge                    |
-| stock-tool-text                 | Momentum Glossy               | text-font                      |
-| stock-tool-zoom                 | Momentum Glossy               | search                         |
+| GIMP Filename                   | Icon Set                      | Name                           | Icon |
+| ------------------------------- | ----------------------------- | ------------------------------ | ---- |
+| stock-tool-align                | Crystal Project               | stock_graphics-align-centered  | ![align](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-align-c16.png?raw=true) | 
+| stock-tool-blend                | Crystal Project               | gradient                       | ![blend](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-blend-c16.png?raw=true) | 
+| stock-tool-blur                 | Fugue Icons                   | water                          | ![blur](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-blur-c16.png?raw=true) | 
+| stock-tool-bucket-fill          | Momentum Glossy               | paintbucket                    | ![bucketfill](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-bucket-fill-c16.png?raw=true) | 
+| stock-tool-clone                | Fugue Icons                   | stamp                          | ![clone](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-clone-c16.png?raw=true) | 
+| stock-tool-color-picker         | Momentum Glossy               | eyedropper                     | ![colorpicker](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-color-picker-c16.png?raw=true) | 
+| stock-tool-crop                 | Momentum Glossy               | exact-o                        | ![crop](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-crop-c16.png?raw=true) | 
+| stock-tool-dodge                | Fugue Icons                   | fire                           | ![dodge](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-dodge-c16.png?raw=true) | 
+| stock-tool-ellipse-select       | Farm Fresh                    | select                         | ![ellipseselect](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-ellipse-select-c16.png?raw=true) | 
+| stock-tool-eraser               | Farm Fresh                    | draw_erasor                    | ![eraser](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-eraser-c16.png?raw=true) | 
+| stock-tool-flip                 | Farm Fresh                    | shape_flip_horizontal          | ![flip](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-flip-c16.png?raw=true) | 
+| stock-tool-foreground-select    | none (created for this theme) | none (created for this theme)  | ![fgselect](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-foreground-select-c16.png?raw=true) | 
+| stock-tool-free-select          | Farm Fresh                    | select_lasso                   | ![freeselect](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-free-select-c16.png?raw=true) | 
+| stock-tool-fuzzy-select         | Farm Fresh                    | magic_wand                     | ![fuzzyselect](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-fuzzy-select-c16.png?raw=true) | 
+| stock-tool-heal                 | Centigrade MedicalSeries      | bandaid                        | ![heal](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-heal-c16.png?raw=true) | 
+| stock-tool-ink                  | Crystal Project               | stock_insert-fields-author     | ![ink](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-ink-c16.png?raw=true) | 
+| stock-tool-iscissors            | Momentum Glossy               | cut                            | ![scissors](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-iscissors-c16.png?raw=true) | 
+| stock-tool-move                 | Farm Fresh                    | hand-tool                      | ![move](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-move-c16.png?raw=true) | 
+| stock-tool-options              | Batch                         | mixer                          | ![options](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-options-c16.png?raw=true) | 
+| stock-tool-paintbrush           | Momentum Glossy               | paintbrush                     | ![paintbrush](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-paintbrush-c16.png?raw=true) | 
+| stock-tool-path                 | Farm Fresh                    | vector                         | ![path](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-path-c16.png?raw=true) | 
+| stock-tool-pencil               | Momentum Glossy               | pencil                         | ![pencil](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-pencil-c16.png?raw=true) | 
+| stock-tool-perspective          | Farm Fresh                    | transform_perspective          | ![perspective](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-perspective-c16.png?raw=true) | 
+| stock-tool-rect-select          | Farm Fresh                    | select                         | ![rectselect](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-rect-select-c16.png?raw=true) | 
+| stock-tool-reset                | Tango Icons                   | go-jump                        | ![reset](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-reset-c16.png?raw=true) | 
+| stock-tool-rotate               | Farm Fresh                    | transform_rotate               | ![rotate](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-rotate-c16.png?raw=true) | 
+| stock-tool-scale                | Farm Fresh                    | transform_scale                | ![scale](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-scale-c16.png?raw=true) | 
+| stock-tool-shear                | Farm Fresh                    | transform_shear                | ![shear](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-shear-c16.png?raw=true) | 
+| stock-tool-smudge               | Farm Fresh                    | draw_smudge                    | ![smudge](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-smudge-c16.png?raw=true) | 
+| stock-tool-text                 | Momentum Glossy               | text-font                      | ![text](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-text-c16.png?raw=true) | 
+| stock-tool-zoom                 | Momentum Glossy               | search                         | ![zoom](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-zoom-c16.png?raw=true) | 
