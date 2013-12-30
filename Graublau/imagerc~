@@ -157,6 +157,12 @@ style "gimp-icons"
 
   # Image window icons
   #
+   stock["gimp-color-triangle"] =
+    {
+      { "images/stock-color-triangle-c16.png", *, *, "gtk-menu" },
+      { "images/stock-color-triangle-16.png", *, *, * },
+      { "images/stock-color-triangle-16.png", *, ACTIVE, "gtk-menu" }
+    }
    stock["gimp-navigation"] =
     {
       { "images/stock-navigation-c16.png", *, *, "gtk-menu" },
