@@ -14,6 +14,7 @@ Most of the icons have been altered in some ways to create an overall harmonic t
 
 | Icon Set                 |       Author          | Website                                  | License
 | ------------------------ | --------------------- | ---------------------------------------- | -------------------------------------------------
+| 48px web iconset         | Emey87                | http://emey87.deviantart.com/            | http://creativecommons.org/licenses/by-nd/3.0/
 | Basic Set                | Pixel Mixer           | http://www.pixel-mixer.com/              | Free for commercial use
 | Bijou                    | Visual Idiot          | http://visualidiot.com                   | WTFPL
 | Centigrade MedicalSeries | Centrigade            | http://www.centigrade.de/                | http://creativecommons.org/licenses/by/3.0/us/
@@ -69,6 +70,7 @@ theme are not listed in the following reference.
 | stock-duplicate              | Farm Fresh        | layer_stack_arrange     | ![duplicate](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-duplicate-16.png?raw=true) | 
 | stock-edit                   | Humanity Icons    | stock_edit              | ![edit](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-edit-c16.png?raw=true) |
 | stock-eye                    | Farm-fresh        | eye                     | ![eye](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-eye-16.png?raw=true) |
+| stock-image                  | 48px web iconset  | picture                 | ![picture](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-image-48.png?raw=true) |
 | stock-navigation             | Crystal Project   | move                    | ![navigation](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-navigation-c16.png?raw=true) |
 | stock-reset                  | Humanity Icons    | reload                  | ![reset](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-reset-c16.png?raw=true) |
 

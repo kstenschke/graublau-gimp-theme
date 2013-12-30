@@ -24,12 +24,6 @@ style "gimp-icons"
      { "images/stock-anchor-16.png", *, *, "gtk-button" },
      { "images/stock-anchor-16.png", *, *, *            }
     }
-   stock["gimp-channels"] =
-    {
-      { "images/stock-channels-c16.png", *, *, "gtk-menu" },
-      { "images/stock-channels-16.png", *, *, * },
-      { "images/stock-channels-16.png", *, ACTIVE, "gtk-menu" }
-    }
    stock["gimp-colormap"] =
     {
       { "images/stock-colormap-c16.png", *, *, "gtk-menu" },
@@ -49,13 +43,6 @@ style "gimp-icons"
       { "images/stock-cursor-16.png", *, *, * },
       { "images/stock-cursor-16.png", *, ACTIVE, "gtk-menu" }
     }
-   stock["gimp-device-status"] =
-    {
-      { "images/stock-device-status-c16.png", *, *, "gtk-menu" },
-      { "images/stock-device-status-16.png", *, *, * },
-      { "images/stock-device-status-16.png", *, ACTIVE, "gtk-menu" }
-    }
-
    stock["gimp-duplicate"] =
     {
       { "images/stock-duplicate-16.png", *, *, "gtk-button" },
@@ -66,30 +53,58 @@ style "gimp-icons"
       { "images/stock-edit-16.png", *, *, "gtk-button" },
       { "images/stock-edit-16.png", *, *, *            }
     }
+#   stock["gimp-grid"] =
+#    {
+#      { "images/stock-grid-16.png", *, *, "gtk-menu" },
+#      { "images/stock-grid-16.png", *, *, * }
+#    }
+#   stock["gimp-hchain"] =
+#    {
+#      { "images/stock-hchain-24.png", *, *, "gtk-button" },
+#      { "images/stock-hchain-24.png", *, *, * }
+#    }
+#   stock["gimp-hchain-broken"] =
+#    {
+#      { "images/stock-hchain-broken-24.png", *, *, "gtk-button" },
+#      { "images/stock-hchain-broken-24.png", *, *, * }
+#    }
    stock["gimp-histogram"] =
     {
       { "images/stock-histogram-c16.png", *, *, "gtk-menu" },
       { "images/stock-histogram-16.png", *, *, * },
       { "images/stock-histogram-16.png", *, ACTIVE, "gtk-menu" }
     }
-   stock["gimp-layers"] =
+   stock["gimp-image"] =
     {
-      { "images/stock-layers-c16.png", *, *, "gtk-menu" },
-      { "images/stock-layers-16.png", *, *, * },
-      { "images/stock-layers-16.png", *, ACTIVE, "gtk-menu" }
+      { "images/stock-image-48.png", *, *, "gtk-menu" },
+      { "images/stock-image-48.png", *, *, * }
     }
+#   stock["gimp-menu-left"] =
+#    {
+#      { "images/stock-menu-left-12.png", *, *, "gtk-menu" },
+#      { "images/stock-menu-left-12.png", *, *, * }
+#    }
+#  stock["gimp-menu-right"] =
+#    {
+#      { "images/stock-menu-right-12.png", *, *, "gtk-menu" },
+#      { "images/stock-menu-right-12.png", *, *, * }
+#    }
    stock["gimp-navigation"] =
     {
       { "images/stock-navigation-c16.png", *, *, "gtk-menu" },
       { "images/stock-navigation-16.png", *, *, * },
       { "images/stock-navigation-16.png", *, ACTIVE, "gtk-menu" }
     }
-   stock["gimp-paths"] =
-    {
-      { "images/stock-paths-c16.png", *, *, "gtk-menu" },
-      { "images/stock-paths-16.png", *, *, * },
-      { "images/stock-paths-16.png", *, ACTIVE, "gtk-menu" }
-    }
+#   stock["gimp-quick-mask-off"] =
+#    {
+#      { "images/stock-quick-mask-off-12.png", *, *, "gtk-menu" },
+#      { "images/stock-quick-mask-off-12.png", *, *, * }
+#    }
+#   stock["gimp-quick-mask-on"] =
+#    {
+#      { "images/stock-quick-mask-on-12.png", *, *, "gtk-menu" },
+#      { "images/stock-quick-mask-on-12.png", *, *, * }
+#    }
    stock["gimp-reset"] =
     {
       { "images/stock-reset-16.png", *, *, "gtk-button" },
@@ -114,6 +129,16 @@ style "gimp-icons"
         {"images/stock-eye-20.png", *, *, "gtk-button" },
         {"images/stock-eye-24.png", *, *, * }
     }
+#    stock["gimp-vchain"] =
+#    {
+#      { "images/stock-vchain-24.png", *, *, "gtk-button" },
+#      { "images/stock-vchain-24.png", *, *, * }
+#    }
+#    stock["gimp-vchain-broken"] =
+#    {
+#      { "images/stock-vchain-broken-24.png", *, *, "gtk-button" },
+#      { "images/stock-vchain-broken-24.png", *, *, * }
+#    }
 
 
 
@@ -124,7 +149,6 @@ style "gimp-icons"
         {"images/stock-eye-20.png", *, *, "gtk-button" },
         {"images/stock-eye-24.png", *, *, * }
     }
-
 
   # Toolbox icons
   #
@@ -483,6 +507,176 @@ style "gimp-icons"
       { "images/tools/stock-tool-zoom-c22.png", *, PRELIGHT, "gtk-button" },
       { "images/tools/stock-tool-zoom-c22.png", *, *, *            }
     }
+
+
+
+  # Misc menu icons
+  #
+#   stock["gimp-convert-grayscale"] =
+#    {
+#      { "images/stock-convert-grayscale-16.png", *, *, "gtk-menu" },
+#      { "images/stock-convert-grayscale-16.png", *, *, * }
+#    }
+   stock["gimp-channels"] =
+    {
+      { "images/stock-channels-c16.png", *, *, "gtk-menu" },
+      { "images/stock-channels-16.png", *, *, * },
+      { "images/stock-channels-16.png", *, ACTIVE, "gtk-menu" }
+    }
+#   stock["gimp-convert-indexed"] =
+#    {
+#      { "images/stock-convert-indexed-16.png", *, *, "gtk-menu" },
+#      { "images/stock-convert-indexed-16.png", *, *, * }
+#    }
+#   stock["gimp-convert-rgb"] =
+#    {
+#      { "images/stock-convert-rgb-16.png", *, *, "gtk-menu" },
+#      { "images/stock-convert-rgb-16.png", *, *, * }
+#    }
+   stock["gimp-device-status"] =
+    {
+      { "images/stock-device-status-c16.png", *, *, "gtk-menu" },
+      { "images/stock-device-status-16.png", *, *, * },
+      { "images/stock-device-status-16.png", *, ACTIVE, "gtk-menu" }
+    }
+#   stock["gimp-images"] =
+#    {
+#      { "images/stock-images-16.png", *, *, "gtk-menu" },
+#      { "images/stock-images-16.png", *, *, * }
+#    }
+#   stock["gimp-info"] =
+#    {
+#      { "images/stock-info-16.png", *, *, "gtk-button" },
+#      { "images/stock-info-16.png", *, *, *            }
+#    }
+#   stock["gimp-invert"] =
+#    {
+#      { "images/stock-invert-16.png", *, *, "gtk-button" },
+#      { "images/stock-invert-16.png", *, *, *            }
+#    }
+#   stock["gimp-layer-to-imagesize"] =
+#    {
+#      { "images/stock-layer-to-imagesize-16.png", *, *, "gtk-menu" },
+#      { "images/stock-layer-to-imagesize-16.png", *, *, * }
+#    }
+#   stock["gimp-landscape"] =
+#    {
+#      { "images/stock-landscape-16.png", *, *, "gtk-menu" },
+#      { "images/stock-landscape-16.png", *, *, * }
+#    }
+   stock["gimp-layers"] =
+    {
+      { "images/stock-layers-c16.png", *, *, "gtk-menu" },
+      { "images/stock-layers-16.png", *, *, * },
+      { "images/stock-layers-16.png", *, ACTIVE, "gtk-menu" }
+    }
+#   stock["gimp-merge-down"] =
+#    {
+#      { "images/stock-merge-down-16.png", *, *, "gtk-menu" },
+#      { "images/stock-merge-down-16.png", *, *, * }
+#    }
+   stock["gimp-paths"] =
+    {
+      { "images/stock-paths-c16.png", *, *, "gtk-menu" },
+      { "images/stock-paths-16.png", *, *, * },
+      { "images/stock-paths-16.png", *, ACTIVE, "gtk-menu" }
+    }
+#   stock["gimp-portrait"] =
+#    {
+#      { "images/stock-portrait-16.png", *, *, "gtk-menu" },
+#      { "images/stock-portrait-16.png", *, *, * }
+#    }
+#   stock["gimp-print-resolution"] =
+#    {
+#      { "images/stock-print-resolution-16.png", *, *, "gtk-menu" },
+#      { "images/stock-print-resolution-16.png", *, *, * }
+#    }
+#   stock["gimp-reshow-filter"] =
+#    {
+#      { "images/stock-reshow-filter-16.png", *, *, "gtk-menu" },
+#      { "images/stock-reshow-filter-16.png", *, *, * }
+#    }
+#   stock["gimp-question"] =
+#    {
+#      { "images/stock-question-48.png", *, *, "gtk-menu" },
+#      { "images/stock-question-48.png", *, *, * }
+#    }
+#   stock["gimp-resize"] =
+#    {
+#      { "images/stock-resize-16.png", *, *, "gtk-menu" },
+#      { "images/stock-resize-16.png", *, *, * }
+#    }
+#   stock["gimp-rotate-90"] =
+#    {
+#      { "images/stock-rotate-90-16.png", *, *, "gtk-menu" },
+#      { "images/stock-rotate-90-16.png", *, *, * }
+#    }
+#   stock["gimp-rotate-180"] =
+#    {
+#      { "images/stock-rotate-180-16.png", *, *, "gtk-menu" },
+#      { "images/stock-rotate-180-16.png", *, *, * }
+#    }
+#   stock["gimp-rotate-270"] =
+#    {
+#      { "images/stock-rotate-270-16.png", *, *, "gtk-menu" },
+#      { "images/stock-rotate-270-16.png", *, *, * }
+#    }
+#   stock["gimp-scale"] =
+#    {
+#      { "images/stock-scale-16.png", *, *, "gtk-menu" },
+#      { "images/stock-scale-16.png", *, *, * }
+#    }
+#   stock["gimp-selection-all"] =
+#    {
+#      { "images/stock-selection-all-16.png", *, *, "gtk-menu" },
+#      { "images/stock-selection-all-16.png", *, *, * }
+#    }
+#   stock["gimp-selection-to-channel"] =
+#    {
+#      { "images/stock-selection-to-channel-16.png", *, *, "gtk-menu" },
+#      { "images/stock-selection-to-channel-16.png", *, *, * }
+#    }
+#   stock["gimp-template"] =
+#    {
+#      { "images/stock-template-16.png", *, *, "gtk-menu" },
+#      { "images/stock-template-16.png", *, *, * }
+#    }
+#   stock["gimp-tool-options"] =
+#    {
+#      { "images/stock-tool-options-16.png", *, *, "gtk-menu" },
+#      { "images/stock-tool-options-16.png", *, *, * }
+#    }
+#   stock["gimp-web"] =
+#    {
+#      { "images/stock-web-16.png", *, *, "gtk-menu" },
+#      { "images/stock-web-16.png", *, *, * }
+#    }
+
+
+
+  # Selection tool options window
+  #
+#   stock["gimp-selection-replace"] =
+#    {
+#      { "images/stock-selection-replace-16.png", *, *, "gtk-button" },
+#      { "images/stock-selection-replace-16.png", *, *, * }
+#    }
+#   stock["gimp-selection-add"] =
+#    {
+#      { "images/stock-selection-add-16.png", *, *, "gtk-button" },
+#      { "images/stock-selection-add-16.png", *, *, * }
+#    }
+#   stock["gimp-selection-subtract"] =
+#    {
+#      { "images/stock-selection-subtract-16.png", *, *, "gtk-button" },
+#      { "images/stock-selection-subtract-16.png", *, *, * }
+#    }
+#   stock["gimp-selection-intersect"] =
+#    {
+#      { "images/stock-selection-intersect-16.png", *, *, "gtk-button" },
+#      { "images/stock-selection-intersect-16.png", *, *, * }
+#    }
+
 }
 
 class "GtkWidget" style "gimp-icons"
