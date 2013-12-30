@@ -61,6 +61,7 @@ Icons Source Reference
 Icons from the original GIMP iconset that are used unchanged or with little adaptions to fit the 
 theme are not listed in the following reference.
 
+###General Purpose Icons
 
 | GIMP Filename                | Icon Set           | Name                    | Icon |
 | ---------------------------- | ------------------ | ----------------------- | ---- |

@@ -19,6 +19,8 @@
 style "gimp-icons"
 {
 
+  # General purpose icons
+  #
    stock["gimp-anchor"] =
     {
      { "images/stock-anchor-16.png", *, *, "gtk-button" },
@@ -89,22 +91,6 @@ style "gimp-icons"
 #      { "images/stock-menu-right-12.png", *, *, "gtk-menu" },
 #      { "images/stock-menu-right-12.png", *, *, * }
 #    }
-   stock["gimp-navigation"] =
-    {
-      { "images/stock-navigation-c16.png", *, *, "gtk-menu" },
-      { "images/stock-navigation-16.png", *, *, * },
-      { "images/stock-navigation-16.png", *, ACTIVE, "gtk-menu" }
-    }
-#   stock["gimp-quick-mask-off"] =
-#    {
-#      { "images/stock-quick-mask-off-12.png", *, *, "gtk-menu" },
-#      { "images/stock-quick-mask-off-12.png", *, *, * }
-#    }
-#   stock["gimp-quick-mask-on"] =
-#    {
-#      { "images/stock-quick-mask-on-12.png", *, *, "gtk-menu" },
-#      { "images/stock-quick-mask-on-12.png", *, *, * }
-#    }
    stock["gimp-reset"] =
     {
       { "images/stock-reset-16.png", *, *, "gtk-button" },
@@ -166,6 +152,48 @@ style "gimp-icons"
       { "images/stock-swap-colors-12.png", *, *, "gtk-menu" },
       { "images/stock-swap-colors-12.png", *, *, * }
     }
+
+
+
+  # Image window icons
+  #
+   stock["gimp-color-triangle"] =
+    {
+      { "images/stock-color-triangle-c16.png", *, *, "gtk-menu" },
+      { "images/stock-color-triangle-16.png", *, *, * },
+      { "images/stock-color-triangle-16.png", *, ACTIVE, "gtk-menu" }
+    }
+   stock["gimp-navigation"] =
+    {
+      { "images/stock-navigation-c16.png", *, *, "gtk-menu" },
+      { "images/stock-navigation-16.png", *, *, * },
+      { "images/stock-navigation-16.png", *, ACTIVE, "gtk-menu" }
+    }
+#   stock["gimp-quick-mask-off"] =
+#    {
+#      { "images/stock-quick-mask-off-12.png", *, *, "gtk-menu" },
+#      { "images/stock-quick-mask-off-12.png", *, *, * }
+#    }
+#   stock["gimp-quick-mask-on"] =
+#    {
+#      { "images/stock-quick-mask-on-12.png", *, *, "gtk-menu" },
+#      { "images/stock-quick-mask-on-12.png", *, *, * }
+#    }
+
+
+
+  # Wilber *_`@@'
+  #
+  stock["gimp-wilber"] =
+    {
+      { "images/stock-wilber-c16.png", *, *, "gtk-menu" },
+      { "images/stock-wilber-16.png", *, *, * },
+      { "images/stock-wilber-16.png", *, ACTIVE, "gtk-menu" }
+    }
+#  stock["gimp-wilber-eek"] =
+#    {
+#      { "images/stock-wilber-eek-64.png", *, *, * }
+#    }
 
 
 
@@ -511,6 +539,11 @@ style "gimp-icons"
 
   # Misc menu icons
   #
+#   stock["gimp-all"] =
+#    {
+#      { "images/stock-all-16.png", *, *, "gtk-button" },
+#      { "images/stock-all-16.png", *, *, *            },
+#    }
 #   stock["gimp-convert-grayscale"] =
 #    {
 #      { "images/stock-convert-grayscale-16.png", *, *, "gtk-menu" },
@@ -538,6 +571,11 @@ style "gimp-icons"
       { "images/stock-device-status-16.png", *, *, * },
       { "images/stock-device-status-16.png", *, ACTIVE, "gtk-menu" }
     }
+#   stock["gimp-grow"] =
+#    {
+#      { "images/stock-grow-16.png", *, *, "gtk-button" },
+#      { "images/stock-grow-16.png", *, *, *            },
+#    }
 #   stock["gimp-images"] =
 #    {
 #      { "images/stock-images-16.png", *, *, "gtk-menu" },
@@ -573,6 +611,11 @@ style "gimp-icons"
 #    {
 #      { "images/stock-merge-down-16.png", *, *, "gtk-menu" },
 #      { "images/stock-merge-down-16.png", *, *, * }
+#    }
+#   stock["gimp-none"] =
+#    {
+#      { "images/stock-none-16.png", *, *, "gtk-button" },
+#      { "images/stock-none-16.png", *, *, *            },
 #    }
    stock["gimp-paths"] =
     {
@@ -634,6 +677,11 @@ style "gimp-icons"
 #    {
 #      { "images/stock-selection-to-channel-16.png", *, *, "gtk-menu" },
 #      { "images/stock-selection-to-channel-16.png", *, *, * }
+#    }
+#   stock["gimp-shrink"] =
+#    {
+#      { "images/stock-shrink-16.png", *, *, "gtk-button" },
+#      { "images/stock-shrink-16.png", *, *, *            },
 #    }
 #   stock["gimp-template"] =
 #    {
