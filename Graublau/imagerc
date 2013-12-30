@@ -49,6 +49,13 @@ style "gimp-icons"
       { "images/stock-cursor-16.png", *, *, * },
       { "images/stock-cursor-16.png", *, ACTIVE, "gtk-menu" }
     }
+   stock["gimp-device-status"] =
+    {
+      { "images/stock-device-status-c16.png", *, *, "gtk-menu" },
+      { "images/stock-device-status-16.png", *, *, * },
+      { "images/stock-device-status-16.png", *, ACTIVE, "gtk-menu" }
+    }
+
    stock["gimp-duplicate"] =
     {
       { "images/stock-duplicate-16.png", *, *, "gtk-button" },
