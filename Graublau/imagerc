@@ -144,10 +144,9 @@ style "gimp-icons"
 
     stock["gimp-dynamics"] =
     {
-        {"images/stock-eye-12.png", *, *, "gtk-button" },
-        {"images/stock-eye-16.png", *, *, "gtk-button" },
-        {"images/stock-eye-20.png", *, *, "gtk-button" },
-        {"images/stock-eye-24.png", *, *, * }
+        {"images/stock-dynamics-c16.png", *, *, "gtk-menu" },
+        {"images/stock-dynamics-16.png", *, *, * },
+        {"images/stock-dynamics-16.png", *, ACTIVE, "gtk-menu" }
     }
 
   # Toolbox icons
