@@ -62,17 +62,18 @@ Icons from the original GIMP iconset that are used unchanged or with little adap
 theme are not listed in the following reference.
 
 
-| GIMP Filename                | Icon Set          | Name                    | Icon |
-| ---------------------------- | ----------------- | ----------------------- | ---- |
-| stock-anchor                 | Bijou             | anchor                  | ![anchor](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-anchor-16.png?raw=true) |
-| stock-channels               | Farm Fresh        | layer_rgb               | ![channels](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-channels-c16.png?raw=true) |
-| stock-color-pick-from-screen | Ultimate Gnome    | computer                | ![colorfromscreen](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-color-pick-from-screen-c16.png?raw=true) |
-| stock-duplicate              | Farm Fresh        | layer_stack_arrange     | ![duplicate](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-duplicate-16.png?raw=true) | 
-| stock-edit                   | Humanity Icons    | stock_edit              | ![edit](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-edit-c16.png?raw=true) |
-| stock-eye                    | Farm-fresh        | eye                     | ![eye](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-eye-16.png?raw=true) |
-| stock-image                  | 48px web iconset  | picture                 | ![picture](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-image-48.png?raw=true) |
-| stock-navigation             | Crystal Project   | move                    | ![navigation](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-navigation-c16.png?raw=true) |
-| stock-reset                  | Humanity Icons    | reload                  | ![reset](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-reset-c16.png?raw=true) |
+| GIMP Filename                | Icon Set                      | Name                    | Icon |
+| ---------------------------- | ----------------------------- | ----------------------- | ---- |
+| stock-anchor                 | Bijou                         | anchor                  | ![anchor](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-anchor-16.png?raw=true) |
+| stock-channels               | Farm Fresh                    | layer_rgb               | ![channels](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-channels-c16.png?raw=true) |
+| stock-color-pick-from-screen | Ultimate Gnome                | computer                | ![colorfromscreen](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-color-pick-from-screen-c16.png?raw=true) |
+| stock-duplicate              | Farm Fresh                    | layer_stack_arrange     | ![duplicate](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-duplicate-16.png?raw=true) | 
+| stock-dynamics               | none (created for this theme) | layer_rgb               | ![channels](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-dynamics-c16.png?raw=true) |
+| stock-edit                   | Humanity Icons                | stock_edit              | ![edit](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-edit-c16.png?raw=true) |
+| stock-eye                    | Farm-fresh                    | eye                     | ![eye](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-eye-16.png?raw=true) |
+| stock-image                  | 48px web iconset              | picture                 | ![picture](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-image-48.png?raw=true) |
+| stock-navigation             | Crystal Project               | move                    | ![navigation](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-navigation-c16.png?raw=true) |
+| stock-reset                  | Humanity Icons                | reload                  | ![reset](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-reset-c16.png?raw=true) |
 
 
 
@@ -102,7 +103,7 @@ theme are not listed in the following reference.
 | stock-tool-clone                | Fugue Icons                   | stamp                          | ![clone](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-clone-c16.png?raw=true) | 
 | stock-tool-color-picker         | Momentum Glossy               | eyedropper                     | ![colorpicker](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-color-picker-c16.png?raw=true) | 
 | stock-tool-crop                 | Momentum Glossy               | exact-o                        | ![crop](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-crop-c16.png?raw=true) | 
-| stock-tool-dodge                | Fugue Icons                   | fire                           | ![dodge](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-dodge-c16.png?raw=true) | 
+| stock-tool-dodge                | Fugue Icons                   | fire                           | ![dodge](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-dodge-c16.png?raw=true) |
 | stock-tool-ellipse-select       | Farm Fresh                    | select                         | ![ellipseselect](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-ellipse-select-c16.png?raw=true) | 
 | stock-tool-eraser               | Farm Fresh                    | draw_erasor                    | ![eraser](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-eraser-c16.png?raw=true) | 
 | stock-tool-flip                 | Farm Fresh                    | shape_flip_horizontal          | ![flip](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-flip-c16.png?raw=true) | 
