@@ -648,21 +648,21 @@ style "gimp-icons"
 #      { "images/stock-resize-16.png", *, *, "gtk-menu" },
 #      { "images/stock-resize-16.png", *, *, * }
 #    }
-#   stock["gimp-rotate-90"] =
-#    {
-#      { "images/stock-rotate-90-16.png", *, *, "gtk-menu" },
-#      { "images/stock-rotate-90-16.png", *, *, * }
-#    }
-#   stock["gimp-rotate-180"] =
-#    {
-#      { "images/stock-rotate-180-16.png", *, *, "gtk-menu" },
-#      { "images/stock-rotate-180-16.png", *, *, * }
-#    }
-#   stock["gimp-rotate-270"] =
-#    {
-#      { "images/stock-rotate-270-16.png", *, *, "gtk-menu" },
-#      { "images/stock-rotate-270-16.png", *, *, * }
-#    }
+   stock["gimp-rotate-90"] =
+    {
+      { "images/stock-rotate-90-16.png", *, *, "gtk-menu" },
+      { "images/stock-rotate-90-16.png", *, *, * }
+    }
+   stock["gimp-rotate-180"] =
+    {
+      { "images/stock-rotate-180-16.png", *, *, "gtk-menu" },
+      { "images/stock-rotate-180-16.png", *, *, * }
+    }
+   stock["gimp-rotate-270"] =
+    {
+      { "images/stock-rotate-270-16.png", *, *, "gtk-menu" },
+      { "images/stock-rotate-270-16.png", *, *, * }
+    }
 #   stock["gimp-scale"] =
 #    {
 #      { "images/stock-scale-16.png", *, *, "gtk-menu" },
