@@ -4,7 +4,7 @@ Graublau Icon Theme for the GIMP
 
 Authors & License
 -----------------
-Created in 2013 by Kay Stenschke
+Created in 2013-2014 by Kay Stenschke
 
 Licensed under the GNU GENERAL PUBLIC LICENSE, Version 2.
 

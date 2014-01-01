@@ -55,6 +55,13 @@ style "gimp-icons"
       { "images/stock-edit-16.png", *, *, "gtk-button" },
       { "images/stock-edit-16.png", *, *, *            }
     }
+  stock["gimp-gegl"] =
+    {
+      { "images/stock-gegl-16.png", *, *, "gtk-button" },
+      { "images/stock-gegl-c16.png", *, ACTIVE, "gtk-button" },
+      { "images/stock-gegl-c16.png", *, PRELIGHT, "gtk-button" },
+      { "images/stock-gegl-c16.png", *, *, *            }
+    }
 #   stock["gimp-grid"] =
 #    {
 #      { "images/stock-grid-16.png", *, *, "gtk-menu" },
@@ -158,6 +165,12 @@ style "gimp-icons"
   # Image window icons
   #
    stock["gimp-color-triangle"] =
+    {
+      { "images/stock-color-triangle-c16.png", *, *, "gtk-menu" },
+      { "images/stock-color-triangle-16.png", *, *, * },
+      { "images/stock-color-triangle-16.png", *, ACTIVE, "gtk-menu" }
+    }
+   stock["gimp-select-color"] =
     {
       { "images/stock-color-triangle-c16.png", *, *, "gtk-menu" },
       { "images/stock-color-triangle-16.png", *, *, * },
@@ -331,6 +344,13 @@ style "gimp-icons"
       { "images/tools/stock-tool-curves-c22.png", *, ACTIVE, "gtk-button" },
       { "images/tools/stock-tool-curves-c22.png", *, PRELIGHT, "gtk-button" },
       { "images/tools/stock-tool-curves-c22.png", *, *, *            }
+    }
+   stock["gimp-tool-desaturate"] =
+    {
+      { "images/tools/stock-tool-desaturate-22.png", *, *, "gtk-button" },
+      { "images/tools/stock-tool-desaturate-c22.png", *, ACTIVE, "gtk-button" },
+      { "images/tools/stock-tool-desaturate-c22.png", *, PRELIGHT, "gtk-button" },
+      { "images/tools/stock-tool-desaturate-c22.png", *, *, *            }
     }
   stock["gimp-tool-dodge"] =
     {

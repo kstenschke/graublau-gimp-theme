@@ -55,6 +55,13 @@ style "gimp-icons"
       { "images/stock-edit-16.png", *, *, "gtk-button" },
       { "images/stock-edit-16.png", *, *, *            }
     }
+  stock["gimp-gegl"] =
+    {
+      { "images/stock-gegl-16.png", *, *, "gtk-button" },
+      { "images/stock-gegl-c16.png", *, ACTIVE, "gtk-button" },
+      { "images/stock-gegl-c16.png", *, PRELIGHT, "gtk-button" },
+      { "images/stock-gegl-c16.png", *, *, *            }
+    }
 #   stock["gimp-grid"] =
 #    {
 #      { "images/stock-grid-16.png", *, *, "gtk-menu" },
