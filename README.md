@@ -37,8 +37,11 @@ Installation
 2. Start the GIMP and activate the theme by selecting it via: Edit > Preferences > Theme 
 3. Restart GIMP for the theme to be activated
 
+Theme Path by OS:
+-----------------
 * Linux:   Copy the theme into the (hidden) directory: \Home\.GIMP\.theme
 * Windows: Copy the theme into: C: > Users > YOUR_USER_NAME > .gimp-2.8 > themes.
+* Mac OS X using Finder: Open contents of GIMP application package. Change to: Contents > Resources > share > gimp > 2.0 > themes. Paste Graublau theme folder.
 
 
 Icon Variants and Modifications
