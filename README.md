@@ -41,7 +41,7 @@ Theme Path by OS:
 -----------------
 * Linux:   (Run GIMP at least once to have the preference directory created, and than) Copy the theme into the (hidden) directory: \Home\.GIMP\.theme
 * Windows: Copy the theme into: C: > Users > YOUR_USER_NAME > .gimp-2.8 > themes.
-* Mac OS X using Finder: Open contents of GIMP application package. Change to: Contents > Resources > share > gimp > 2.0 > themes. Paste Graublau theme folder.
+* Mac OS X using Finder: Open contents of GIMP application package. Navigato to: Contents > Resources > share > gimp > 2.0 > themes. Paste Graublau theme folder here.
 
 
 Icon Variants and Modifications
