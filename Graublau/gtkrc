@@ -22,7 +22,7 @@ style "gimp-default-style"
   text[SELECTED]    = "#ffffff" # Active text in active window
   text[INSENSITIVE] = "#010101" # Label i.e. selected item in drop-down
   bg[NORMAL]        = "#e3e3e3" # Normal Background, inactive Metacity bar, buttons
-  bg[PRELIGHT]      = "#b5b5b5" # Mouseover buttons, mouseover menu items
+  bg[PRELIGHT]      = "#c6c6c6" # Mouseover buttons, mouseover menu items
   bg[ACTIVE]        = "#e5e5e5" # Mouseclicking, Tabs, active window list
   bg[SELECTED]      = "#3c77d4" # Metacity Bar
   bg[INSENSITIVE]   = "#c4c4c4" # Insensitive (disabled) buttons
