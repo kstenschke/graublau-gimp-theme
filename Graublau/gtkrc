@@ -1,7 +1,6 @@
 include "imagerc"
 # @see https://github.com/GNOME/gimp/blob/master/themes/Default/gtkrc
 
-
 style "gimp-default-style"
 {
   GtkButton::default_border = {0, 0, 0, 0}
@@ -11,12 +10,12 @@ style "gimp-default-style"
   GtkButton::default_spacing = 2
   GtkButton::focus-padding = 0
   
-# Mac-friendly colors  
-  base[NORMAL]      = "#f8f8f8" # Background, most
+# Mac friendly colors  
+  base[NORMAL]      = "#ffffff" # Background, most
   base[PRELIGHT]    = "#e5e5e5" # Mouseover menu
   base[ACTIVE]      = "#e5e5e5" # Menu active item in inactive window
   base[SELECTED]    = "#3c77d4" # Menu active item in active window
-  base[INSENSITIVE] = "#404040" # Background, insensitive
+  base[INSENSITIVE] = "#ebebeb" # Background insensitive (i.e. border of inactive scroll buttons)
   text[NORMAL]      = "#111111" # Text in window
   text[PRELIGHT]    = "#ffffff" # Text on Mouseover
   text[ACTIVE]      = "#111111" # Active text in inactive window
@@ -32,7 +31,6 @@ style "gimp-default-style"
   fg[NORMAL]        = "#020202" # bg decoration images, secondary titles, button labels
   fg[PRELIGHT]      = "#010101" # text in mouseover buttons, menu items
   fg[SELECTED]      = "#ffffff"
-
 
 # Do override some GTK stock icons
 # @see http://developer.gimp.org/api/2.0/gtk/gtk-Stock-Items.html
@@ -55,8 +53,8 @@ style "gimp-default-style"
     }
   stock["gtk-undo"]            = {{ "images/gtk/stock-undo.png", *, *, * }}
 
-font_name = "Droid Sans 11"
-# font_name = "DejaVu Sans Condensed 10"
+#font_name  = "Droid Sans 11"
+font_name   = "Lucida Grande 13" #default mac font
 
 # Enabling the following line for some reason breaks toolbox resize
 # increment calculation. You can enable it to get an even smaller GUI
@@ -92,16 +90,12 @@ font_name = "Droid Sans 11"
   GimpSpinScale::default-border = { 0 0 0 0 }
 }
 
-
-
 class "GtkWidget" style "gimp-default-style"
 
 style "gimp-tool-dialog-style" = "gimp-default-style"
 {
   GtkDialog::action_area_border = 0 #6
 }
-
-
 
 class "GimpToolDialog" style "gimp-tool-dialog-style"
 
