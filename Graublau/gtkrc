@@ -34,12 +34,15 @@ style "gimp-default-style"
 
 # Do override some GTK stock icons
 # @see http://developer.gimp.org/api/2.0/gtk/gtk-Stock-Items.html
+  stock["gtk-cancel"]          = {{ "images/gtk/stock-cancel.png", *, *, * }} #20x20px with actual icon being 16x16px centered
+  
   stock["gtk-dialog-error"]    = {{ "../Default/images/stock-error-64.png", *, *, "gtk-dialog" }}
   stock["gtk-dialog-info"]     = {{ "../Default/images/stock-info-64.png", *, *, "gtk-dialog" }}
   stock["gtk-dialog-question"] = {{ "../Default/images/stock-question-64.png", *, *, "gtk-dialog" }}
   stock["gtk-dialog-warning"]  = {{ "../Default/images/stock-warning-64.png", *, *, "gtk-dialog" }}
   stock["gtk-delete"]          = {{ "images/gtk/stock-delete.png", *, *, * }}
   stock["gtk-directory"]       = {{ "images/gtk/stock-directory.png", *, *, * }}
+  stock["gtk-edit"]       = {{ "images/gtk/stock-edit.png", *, *, * }}
   stock["gtk-go-down"]         = {{ "images/gtk/stock-go-down.png", *, *, * }}
   stock["gtk-go-up"]           = {{ "images/gtk/stock-go-up.png", *, *, * }}
   stock["gtk-new"]             = {{ "images/gtk/stock-new.png", *, *, * }}

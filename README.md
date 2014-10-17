@@ -12,24 +12,25 @@ The icons used in this theme are based on icons from multiple different open sou
 Most of the icons have been altered in some ways to create an overall harmonic theme.
 
 
-| Icon Set                 |       Author          | Website                                  | License
-| ------------------------ | --------------------- | ---------------------------------------- | -------------------------------------------------
-| 48px web iconset         | Emey87                | http://emey87.deviantart.com/            | http://creativecommons.org/licenses/by-nd/3.0/
-| Basic Set                | Pixel Mixer           | http://www.pixel-mixer.com/              | Free for commercial use
-| Bijou                    | Visual Idiot          | http://visualidiot.com                   | WTFPL
-| Centigrade MedicalSeries | Centrigade            | http://www.centigrade.de/                | http://creativecommons.org/licenses/by/3.0/us/
-| Crystal Project          | Everaldo Coelho       | http://www.everaldo.com/                 | http://www.gnu.org/copyleft/lesser.html
-| Diagona Icons            | Yusuke Kamiyamane     | http://p.yusukekamiyamane.com/           | http://creativecommons.org/licenses/by/3.0/
-| Discovery                | Hbons                 | http://hbons.deviantart.com              | http://creativecommons.org/licenses/by-sa/3.0/
-| Farm-fresh               | FatCow Web Hosting    | http://www.fatcow.com/                   | http://creativecommons.org/licenses/by/3.0/us/
-| Fugue Icons              | P. Yusukekamiyamane   | http://p.yusukekamiyamane.com/           | http://creativecommons.org/licenses/by/3.0/
-| Humanity Icons           | Various               | https://launchpad.net/humanity           | http://www.gnu.org/licenses/gpl-2.0.html
-| Iconic                   | P.J. Onori            | http://somerandomdude.com/work/iconic/   | http://creativecommons.org/licenses/by-sa/3.0/us/
-| Momentum Glossy Icons    | Momentum Design Lab   | http://momentumdesignlab.com/            | http://creativecommons.org/licenses/by-sa/3.0/
-| Stuttgart                | Pc.de                 | http://pc.de/icons/                      | http://creativecommons.org/licenses/by/3.0/
-| Tango Icons              | Tango Desktop Project | http://tango.freedesktop.org/            | http://www.gnu.org/copyleft/gpl.html
-| Ultimate Gnome           | New Moon              | http://code.google.com/p/ultimate-gnome/ | http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
-
+| Icon Set                 |       Author          | Website                                    | License
+| ------------------------ | --------------------- | ------------------------------------------ | -------------------------------------------------
+| 48px web iconset         | Emey87                | http://emey87.deviantart.com/              | http://creativecommons.org/licenses/by-nd/3.0/
+| Basic Set                | Pixel Mixer           | http://www.pixel-mixer.com/                | Free for commercial use
+| Bijou                    | Visual Idiot          | http://visualidiot.com                     | WTFPL
+| Centigrade MedicalSeries | Centrigade            | http://www.centigrade.de/                  | http://creativecommons.org/licenses/by/3.0/us/
+| Crystal Project          | Everaldo Coelho       | http://www.everaldo.com/                   | http://www.gnu.org/copyleft/lesser.html
+| Diagona Icons            | Yusuke Kamiyamane     | http://p.yusukekamiyamane.com/             | http://creativecommons.org/licenses/by/3.0/
+| Discovery                | Hbons                 | http://hbons.deviantart.com                | http://creativecommons.org/licenses/by-sa/3.0/
+| Essen, Bremen, Stuttgart | PC.de                 | http://www.pc.de                           | http://creativecommons.org/licenses/by/3.0/
+| Farm-fresh               | FatCow Web Hosting    | http://www.fatcow.com/                     | http://creativecommons.org/licenses/by/3.0/us/
+| Fugue Icons              | P. Yusukekamiyamane   | http://p.yusukekamiyamane.com/             | http://creativecommons.org/licenses/by/3.0/
+| Humanity Icons           | Various               | https://launchpad.net/humanity             | http://www.gnu.org/licenses/gpl-2.0.html
+| Iconic                   | P.J. Onori            | http://somerandomdude.com/work/iconic/     | http://creativecommons.org/licenses/by-sa/3.0/us/
+| Momentum Glossy Icons    | Momentum Design Lab   | http://momentumdesignlab.com/              | http://creativecommons.org/licenses/by-sa/3.0/
+| Silk                     | Marc James            | http://www.famfamfam.com/about/            | http://creativecommons.org/licenses/by/2.5/
+| Tango Icons              | Tango Desktop Project | http://tango.freedesktop.org/              | http://www.gnu.org/copyleft/gpl.html
+| Ultimate Gnome           | New Moon              | http://code.google.com/p/ultimate-gnome/   | http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+| WooFunction Icon Set     | Liam McKay            | http://wefunction.com/                     | Free for commercial use 
 
 Installation
 ------------
@@ -71,7 +72,7 @@ theme are not listed in the following reference.
 | stock-anchor                 | Bijou              | anchor                  | ![anchor](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-anchor-16.png?raw=true) |
 | stock-channels               | Farm Fresh         | layer_rgb               | ![channels](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-channels-c16.png?raw=true) |
 | stock-color-pick-from-screen | Ultimate Gnome     | computer                | ![colorfromscreen](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-color-pick-from-screen-c16.png?raw=true) |
-| stock-duplicate              | Farm Fresh         | layer_stack_arrange     | ![duplicate](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-duplicate-16.png?raw=true) | 
+| stock-duplicate              | Silk               | page_white_copy         | ![duplicate](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-duplicate-16.png?raw=true) | 
 | stock-dynamics               | Crystal Project    | move                    | ![channels](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-dynamics-c16.png?raw=true) |
 | stock-edit                   | Humanity Icons     | stock_edit              | ![edit](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-edit-c16.png?raw=true) |
 | stock-eye                    | Farm-fresh         | eye                     | ![eye](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-eye-16.png?raw=true) |
@@ -121,12 +122,14 @@ theme are not listed in the following reference.
 
 | Gimp Filename          | Icon Set               | Name                        | Icon |
 | ---------------------- | ---------------------- | --------------------------- | ---- |
-| gtk-delete             | Humanity Icons         | editdelete                  | ![delete](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-delete.png?raw=true) |
-| gtk-directory          | Humanity Icons         | gtk-directoy                | ![directory](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-directory.png?raw=true) |
-| gtk-go-down            | Humanity Icons         | gtk-go-down                 | ![godown](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-down.png?raw=true) |
-| gtk-go-up              | Humanity Icons         | gtk-go-up                   | ![goup](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-up.png?raw=true) |
-| gtk-new                | Humanity Icons         | gtk-new                     | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-new.png?raw=true) |
+| gtk-cancel             | Momenticons            | cancel                      | ![cancel](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-cancel.png?raw=true) |
+| gtk-delete             | Momenticons            | delete                      | ![delete](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-delete.png?raw=true) |
+| gtk-directory          | Essen                  | folder                      | ![directory](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-directory.png?raw=true) |
+| gtk-edit               | Bremen                 | edit                        | ![directory](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-edit.png?raw=true) |
+| gtk-go-down            | Basic Set2             | arrow_down                  | ![godown](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-down.png?raw=true) |
+| gtk-go-up              | Basic Set2             | arrow_up                    | ![goup](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-up.png?raw=true) |
+| gtk-new                | WooFunction            | add                         | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-new.png?raw=true) |
 | gtk-redo               | Discovery              | edit-redo                   | ![redo](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-redo.png?raw=true) |
-| gtk-refresh            | Diagona Icons          | 122                         | ![refresh](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-refresh.png?raw=true) |
+| gtk-refresh            | Momentics              | refresh1                    | ![refresh](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-refresh.png?raw=true) |
 | gtk-undo               | Discovery              | edit-undo                   | ![undo](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-undo.png?raw=true) |
 
