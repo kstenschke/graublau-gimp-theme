@@ -3,12 +3,6 @@ include "imagerc"
 
 style "gimp-default-style"
 {
-  GtkButton::default_border = {0, 0, 0, 0}
-  GtkButton::default_outside_border = {0, 0, 0, 0}
-  GtkButton::child_displacement_x = 0
-  GtkButton::child_displacement_y = 1
-  GtkButton::default_spacing = 2
-  GtkButton::focus-padding = 0
   
 # Mac friendly colors  
   base[NORMAL]      = "#ffffff" # Background, most
@@ -121,12 +115,6 @@ widget "*GimpDockable.*" style "gimp-dockable-style"
 style "gimp-display-style" = "gimp-default-style"
 {
   GimpRuler::font-scale           = 0.6
-#  GimpUnitComboBox::label-scale  = 0.6
-#  GimpScaleComboBox::label-scale = 0.6
-#  GtkComboBox::arrow-size        = 8
-#  GtkButton::inner-border        = { 0, 0, 0, 0 }
-#  GtkWidget::focus-line_width    = 1
-#  GtkWidget::focus-padding       = 0
 }
 
 widget "*GimpDisplayShell.*" style "gimp-display-style"
@@ -135,3 +123,5 @@ style "gimp-overlay-style" = "gimp-display-style"
 {
   GtkButton::focus-line_width = 1
 }
+
+include "macrc"

@@ -121,12 +121,6 @@ widget "*GimpDockable.*" style "gimp-dockable-style"
 style "gimp-display-style" = "gimp-default-style"
 {
   GimpRuler::font-scale           = 0.6
-#  GimpUnitComboBox::label-scale  = 0.6
-#  GimpScaleComboBox::label-scale = 0.6
-#  GtkComboBox::arrow-size        = 8
-#  GtkButton::inner-border        = { 0, 0, 0, 0 }
-#  GtkWidget::focus-line_width    = 1
-#  GtkWidget::focus-padding       = 0
 }
 
 widget "*GimpDisplayShell.*" style "gimp-display-style"
