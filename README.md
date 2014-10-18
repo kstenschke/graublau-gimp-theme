@@ -36,8 +36,8 @@ Flavors
 -------
 There are two flavors: 
 
-1. the "Graublau basic" flavor, which is mainly an icon theme, containing only little modifications of GTK styling.
-2. the "Graublau OSX" flavor, which additionally to the icons also implements some GUI styles (buttons, scrollbars, etc.) adaptings the Gimp's look more to Mac OSX.
+1. The "Graublau basic" flavor, which is mainly an icon theme, containing only little modifications of GTK styling.
+2. The "Graublau OSX" flavor, which additionally to the icons also implements some GUI styles (buttons, scrollbars, etc.) adaptings the Gimp's look more to Mac OSX.
 
 
 Installation
