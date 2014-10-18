@@ -32,6 +32,13 @@ Most of the icons have been altered in some ways to create an overall harmonic t
 | Ultimate Gnome           | New Moon              | http://code.google.com/p/ultimate-gnome/   | http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 | WooFunction Icon Set     | Liam McKay            | http://wefunction.com/                     | Free for commercial use 
 
+Flavors
+-------
+There are two flavors: 
+1. the "Graublau basic" flavor, which is mainly an icon theme, containing only little modifications of GTK styling.
+2. the "Graublau OSX" flavor, which additionally to the icons also implements some GUI styles (buttons, scrollbars, etc.) adaptings the Gimp's look more to Mac OSX.
+
+
 Installation
 ------------
 1. Copy the Graublau (and/or Graublau-OSX) folder into the \Themes\ folder of your GIMP 2.8 installation.
