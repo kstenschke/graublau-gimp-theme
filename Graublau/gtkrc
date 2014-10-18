@@ -35,7 +35,9 @@ style "gimp-default-style"
 # Do override some GTK stock icons
 # @see http://developer.gimp.org/api/2.0/gtk/gtk-Stock-Items.html
   stock["gtk-cancel"]          = {{ "images/gtk/stock-cancel.png", *, *, * }} #20x20px with actual icon being 16x16px centered
-  
+  stock["gtk-close"]           = {{ "images/gtk/stock-cancel.png", *, *, * }} 
+  stock["gtk-copy"]            = {{ "images/gtk/stock-copy.png", *, *, * }}
+  stock["gtk-cut"]            = {{ "images/tools/stock-tool-iscissors-c16.png", *, *, * }}
   stock["gtk-dialog-error"]    = {{ "../Default/images/stock-error-64.png", *, *, "gtk-dialog" }}
   stock["gtk-dialog-info"]     = {{ "../Default/images/stock-info-64.png", *, *, "gtk-dialog" }}
   stock["gtk-dialog-question"] = {{ "../Default/images/stock-question-64.png", *, *, "gtk-dialog" }}

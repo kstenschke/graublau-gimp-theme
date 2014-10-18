@@ -4,32 +4,12 @@ include "imagerc"
 style "gimp-default-style"
 {
   
-# Mac friendly colors  
-  base[NORMAL]      = "#ffffff" # Background, most
-  base[PRELIGHT]    = "#e5e5e5" # Mouseover menu
-  base[ACTIVE]      = "#e5e5e5" # Menu active item in inactive window
-  base[SELECTED]    = "#3c77d4" # Menu active item in active window
-  base[INSENSITIVE] = "#ebebeb" # Background insensitive (i.e. border of inactive scroll buttons)
-  text[NORMAL]      = "#111111" # Text in window
-  text[PRELIGHT]    = "#ffffff" # Text on Mouseover
-  text[ACTIVE]      = "#111111" # Active text in inactive window
-  text[SELECTED]    = "#ffffff" # Active text in active window
-  text[INSENSITIVE] = "#010101" # Label i.e. selected item in drop-down
-  bg[NORMAL]        = "#e3e3e3" # Normal Background, inactive Metacity bar, buttons
-  bg[PRELIGHT]      = "#c6c6c6" # Mouseover buttons, mouseover menu items
-  bg[ACTIVE]        = "#e5e5e5" # Mouseclicking, Tabs, active window list
-  bg[SELECTED]      = "#3c77d4" # Metacity Bar
-  bg[INSENSITIVE]   = "#c4c4c4" # Insensitive (disabled) buttons
-  fg[ACTIVE]        = "#111111"
-  fg[INSENSITIVE]   = "#505050"
-  fg[NORMAL]        = "#020202" # bg decoration images, secondary titles, button labels
-  fg[PRELIGHT]      = "#010101" # text in mouseover buttons, menu items
-  fg[SELECTED]      = "#ffffff"
-
 # Do override some GTK stock icons
 # @see http://developer.gimp.org/api/2.0/gtk/gtk-Stock-Items.html
   stock["gtk-cancel"]          = {{ "images/gtk/stock-cancel.png", *, *, * }} #20x20px with actual icon being 16x16px centered
-  
+  stock["gtk-close"]           = {{ "images/gtk/stock-cancel.png", *, *, * }}
+  stock["gtk-copy"]            = {{ "images/gtk/stock-copy.png", *, *, * }}
+  stock["gtk-cut"]             = {{ "images/tools/stock-tool-iscissors-c16.png", *, *, * }}
   stock["gtk-dialog-error"]    = {{ "../Default/images/stock-error-64.png", *, *, "gtk-dialog" }}
   stock["gtk-dialog-info"]     = {{ "../Default/images/stock-info-64.png", *, *, "gtk-dialog" }}
   stock["gtk-dialog-question"] = {{ "../Default/images/stock-question-64.png", *, *, "gtk-dialog" }}
