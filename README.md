@@ -27,6 +27,7 @@ Most of the icons have been altered in some ways to create an overall harmonic t
 | Humanity Icons           | Various               | https://launchpad.net/humanity             | http://www.gnu.org/licenses/gpl-2.0.html
 | Iconic                   | P.J. Onori            | http://somerandomdude.com/work/iconic/     | http://creativecommons.org/licenses/by-sa/3.0/us/
 | Momentum Glossy Icons    | Momentum Design Lab   | http://momentumdesignlab.com/              | http://creativecommons.org/licenses/by-sa/3.0/
+| Nuvola                   | David Vignoni         | http://www.icon-king.com/                  | http://www.gnu.org/licenses/lgpl.html
 | Silk                     | Marc James            | http://www.famfamfam.com/about/            | http://creativecommons.org/licenses/by/2.5/
 | Tango Icons              | Tango Desktop Project | http://tango.freedesktop.org/              | http://www.gnu.org/copyleft/gpl.html
 | Ultimate Gnome           | New Moon              | http://code.google.com/p/ultimate-gnome/   | http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -137,6 +138,7 @@ theme are not listed in the following reference.
 | gtk-go-down            | Basic Set2             | arrow_down                  | ![godown](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-down.png?raw=true) |
 | gtk-go-up              | Basic Set2             | arrow_up                    | ![goup](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-up.png?raw=true) |
 | gtk-new                | WooFunction            | add                         | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-new.png?raw=true) |
+| gtk-open               | Nuvola                 | folder_open                 | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-open.png?raw=true) |
 | gtk-redo               | Discovery              | edit-redo                   | ![redo](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-redo.png?raw=true) |
 | gtk-refresh            | Momentics              | refresh1                    | ![refresh](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-refresh.png?raw=true) |
 | gtk-save               | Farm Fresh             | save                        | ![save](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-save.png?raw=true) |

@@ -607,15 +607,7 @@ widget_class "*<GtkMenuBar>*<GtkMenuItem>*" style "menubar-menuitem"
 widget_class "*<GtkMenuBar>*<GtkSeparatorMenuItem>*" style "menu-separator-item"
 widget_class "*.<GtkFrame>.<GtkLabel>"      style "frame-title"
 widget_class "*.<GtkTreeView>*"             style "treeview"
-widget_class
-  "*GtkFileChooserWidget.GtkFileChooserDefault.GtkVBox.GtkHPaned.GtkVBox.GtkScrolledWindow.GtkTreeView*"
-  style "filechooser-sidepane-treeview"
-widget_class "*<GtkProgress>"               style "progressbar"
-widget_class "*<GtkProgressBar>"            style "progressbar"
-widget_class "*<GtkRadioButton>*"           style "radiocheck"
-widget_class "*<GtkCheckButton>*"           style "radiocheck"
-class "GtkCheckMenuItem"                    style:highest "radiocheck-menu"
-class "GtkRadioMenuItem"                    style:highest "radiocheck-menu"
+
 
 # Treeview header
 widget_class "*.<GtkTreeView>.<GtkButton>"  style "treeview-header"

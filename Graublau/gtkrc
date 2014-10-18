@@ -52,11 +52,11 @@ style "gimp-default-style"
   stock["gtk-go-down"]         = {{ "images/gtk/stock-go-down.png", *, *, * }}
   stock["gtk-go-up"]           = {{ "images/gtk/stock-go-up.png", *, *, * }}
   stock["gtk-new"]             = {{ "images/gtk/stock-new.png", *, *, * }}
+  stock["gtk-open"]            = {{ "images/gtk/stock-open.png", *, *, * }}
   stock["gtk-redo"]            = {{ "images/gtk/stock-redo.png", *, *, * }}
   stock["gtk-refresh"]         = {{ "images/gtk/stock-refresh.png", *, *, * }}
   stock["gtk-save"]            = {{ "images/gtk/stock-save.png", *, *, * }}
   stock["gtk-save-as"]         = {{ "images/gtk/stock-save-as.png", *, *, * }}
-  stock["gtk-refresh"]         = {{ "images/gtk/stock-refresh.png", *, *, * }}
   stock["gtk-select-color"]    =
     {
       { "images/gtk/select-color-c16.png", *, *, "gtk-menu" },
