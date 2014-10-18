@@ -1,5 +1,17 @@
-# Global settings #
+# Based upon:
+#       GIMP GTK+ 2 Mac integration theme
+#       by scl (as found in the native OSX gimp from http://gimp.lisanet.de)
+#               which is itself based upon:
+#                       Zukitwo by lassekongo83
+#                       Gnome-Cupertino by Rafa Cobreros
+#
+# Requirements:
+#     Murrine Theme Engine
+#     For a documentation of the Murrine properties see
+#     https://wiki.ubuntu.com/Artwork/Documentation/Murrine
+#
 
+# Global settings #
 
 ## Color definitions ##
 # Background, base:

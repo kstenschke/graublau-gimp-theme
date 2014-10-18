@@ -1,3 +1,7 @@
+# GIMP theme "Graublau" - Mac OS flavor
+# Licensed under the GNU GENERAL PUBLIC LICENSE, Version 2
+# For more information see: https://github.com/kstenschke/graublau-gimp-theme
+
 include "imagerc"
 # @see https://github.com/GNOME/gimp/blob/master/themes/Default/gtkrc
 
@@ -16,12 +20,14 @@ style "gimp-default-style"
   stock["gtk-dialog-warning"]  = {{ "../Default/images/stock-warning-64.png", *, *, "gtk-dialog" }}
   stock["gtk-delete"]          = {{ "images/gtk/stock-delete.png", *, *, * }}
   stock["gtk-directory"]       = {{ "images/gtk/stock-directory.png", *, *, * }}
-  stock["gtk-edit"]       = {{ "images/gtk/stock-edit.png", *, *, * }}
+  stock["gtk-edit"]            = {{ "images/gtk/stock-edit.png", *, *, * }}
   stock["gtk-go-down"]         = {{ "images/gtk/stock-go-down.png", *, *, * }}
   stock["gtk-go-up"]           = {{ "images/gtk/stock-go-up.png", *, *, * }}
   stock["gtk-new"]             = {{ "images/gtk/stock-new.png", *, *, * }}
   stock["gtk-redo"]            = {{ "images/gtk/stock-redo.png", *, *, * }}
   stock["gtk-refresh"]         = {{ "images/gtk/stock-refresh.png", *, *, * }}
+  stock["gtk-save"]            = {{ "images/gtk/stock-save.png", *, *, * }}
+  stock["gtk-save-as"]         = {{ "images/gtk/stock-save-as.png", *, *, * }}
   stock["gtk-select-color"]    =
     {
       { "images/gtk/select-color-c16.png", *, *, "gtk-menu" },

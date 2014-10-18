@@ -1,21 +1,3 @@
- #pixmap_path "$HOME/.gimp-2.3/themes/Test/"
-#
-# include "rc-file"
-#
-# style <name> [= <name>]
-# {
-#   <option>
-#
-#   stock[<stock_id>] =
-#     {
-#       { <filename> [, <direction> [, <state> [, <size>]]] },
-#       { ... }
-#     }
-# }
-#
-# widget <widget_set> style <style_name>
-# widget_class <widget_class_set> style <style_name>
-
 style "gimp-icons"
 {
 
