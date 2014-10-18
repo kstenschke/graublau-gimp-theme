@@ -35,6 +35,7 @@ Most of the icons have been altered in some ways to create an overall harmonic t
 Flavors
 -------
 There are two flavors: 
+
 1. the "Graublau basic" flavor, which is mainly an icon theme, containing only little modifications of GTK styling.
 2. the "Graublau OSX" flavor, which additionally to the icons also implements some GUI styles (buttons, scrollbars, etc.) adaptings the Gimp's look more to Mac OSX.
 
