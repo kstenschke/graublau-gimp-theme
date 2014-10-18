@@ -34,7 +34,7 @@ Most of the icons have been altered in some ways to create an overall harmonic t
 
 Installation
 ------------
-1. Copy the Graublau folder into the \Themes\ folder of your GIMP 2.8 installation.
+1. Copy the Graublau (and/or Graublau-OSX) folder into the \Themes\ folder of your GIMP 2.8 installation.
 2. Start the GIMP and activate the theme by selecting it via: Edit > Preferences > Theme 
 3. Restart GIMP for the theme to be activated
 
