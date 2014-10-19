@@ -74,21 +74,6 @@ Icons Source Reference
 Icons from the original GIMP iconset that are used unchanged or with little adaptions to fit the 
 theme are not listed in the following reference.
 
-###General Purpose Icons
-
-| GIMP Filename                | Icon Set           | Name                    | Icon |
-| ---------------------------- | ------------------ | ----------------------- | ---- |
-| stock-anchor                 | Bijou              | anchor                  | ![anchor](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-anchor-16.png?raw=true) |
-| stock-channels               | Farm Fresh         | layer_rgb               | ![channels](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-channels-c16.png?raw=true) |
-| stock-color-pick-from-screen | Ultimate Gnome     | computer                | ![colorfromscreen](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-color-pick-from-screen-c16.png?raw=true) |
-| stock-duplicate              | Silk               | page_white_copy         | ![duplicate](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-duplicate-16.png?raw=true) | 
-| stock-dynamics               | Crystal Project    | move                    | ![channels](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-dynamics-c16.png?raw=true) |
-| stock-edit                   | Humanity Icons     | stock_edit              | ![edit](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-edit-c16.png?raw=true) |
-| stock-eye                    | Farm-fresh         | eye                     | ![eye](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-eye-16.png?raw=true) |
-| stock-image                  | 48px web iconset   | picture                 | ![picture](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-image-48.png?raw=true) |
-| stock-navigation             | Crystal Project    | move                    | ![navigation](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-navigation-c16.png?raw=true) |
-| stock-reset                  | Humanity Icons     | reload                  | ![reset](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-reset-c16.png?raw=true) |
-
 
 ###Tool Icons
 
@@ -127,21 +112,32 @@ theme are not listed in the following reference.
 | stock-tool-zoom                 | Momentum Glossy               | search                         | ![zoom](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-zoom-c16.png?raw=true) | 
 
 
-###GTK Icons
+###GTK and general purpose icons
 
-| Gimp Filename          | Icon Set               | Name                        | Icon |
-| ---------------------- | ---------------------- | --------------------------- | ---- |
-| gtk-cancel             | Momenticons            | cancel                      | ![cancel](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-cancel.png?raw=true) |
-| gtk-delete             | Momenticons            | delete                      | ![delete](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-delete.png?raw=true) |
-| gtk-directory          | Essen                  | folder                      | ![directory](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-directory.png?raw=true) |
-| gtk-edit               | Bremen                 | edit                        | ![directory](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-edit.png?raw=true) |
-| gtk-go-down            | Basic Set2             | arrow_down                  | ![godown](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-down.png?raw=true) |
-| gtk-go-up              | Basic Set2             | arrow_up                    | ![goup](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-up.png?raw=true) |
-| gtk-new                | WooFunction            | add                         | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-new.png?raw=true) |
-| gtk-open               | Nuvola                 | folder_open                 | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-open.png?raw=true) |
-| gtk-redo               | Discovery              | edit-redo                   | ![redo](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-redo.png?raw=true) |
-| gtk-refresh            | Momentics              | refresh1                    | ![refresh](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-refresh.png?raw=true) |
-| gtk-save               | Farm Fresh             | save                        | ![save](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-save.png?raw=true) |
-| gtk-save-as            | Farm Fresh             | save-as                     | ![save-as](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-save-as.png?raw=true) |
-| gtk-undo               | Discovery              | edit-undo                   | ![undo](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-undo.png?raw=true) |
-
+| Filename                     | Icon Set           | Name                    | Icon |
+| ---------------------------- | ------------------ | ----------------------- | ---- |
+| gtk-cancel                   | Momenticons        | cancel                  | ![cancel](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-cancel.png?raw=true) |
+| gtk-delete                   | Momenticons        | delete                  | ![delete](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-delete.png?raw=true) |
+| gtk-directory                | Essen              | folder                  | ![directory](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-directory.png?raw=true) |
+| gtk-edit                     | Bremen             | edit                    | ![directory](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-edit.png?raw=true) |
+| gtk-go-down                  | Basic Set2         | arrow_down              | ![godown](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-down.png?raw=true) |
+| gtk-go-up                    | Basic Set2         | arrow_up                | ![goup](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-up.png?raw=true) |
+| gtk-new                      | WooFunction        | add                     | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-new.png?raw=true) |
+| gtk-open                     | Nuvola             | folder_open             | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-open.png?raw=true) |
+| gtk-paste                    | Farm-Fresh         | paste_plain             | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-paste.png?raw=true) |
+| gtk-redo                     | Discovery          | edit-redo               | ![redo](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-redo.png?raw=true) |
+| gtk-refresh                  | Momentics          | refresh1                | ![refresh](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-refresh.png?raw=true) |
+| gtk-restore                  | Farm-Fresh         | backup_and_restore      | ![refresh](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-refresh.png?raw=true) |
+| gtk-save                     | Farm-Fresh         | save                    | ![save](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-save.png?raw=true) |
+| gtk-save-as                  | Farm-Fresh         | save-as                 | ![save-as](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-save-as.png?raw=true) |
+| gtk-undo                     | Discovery          | edit-undo               | ![undo](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-undo.png?raw=true) |
+| stock-anchor                 | Bijou              | anchor                  | ![anchor](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-anchor-16.png?raw=true) |
+| stock-channels               | Farm Fresh         | layer_rgb               | ![channels](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-channels-c16.png?raw=true) |
+| stock-color-pick-from-screen | Ultimate Gnome     | computer                | ![colorfromscreen](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-color-pick-from-screen-c16.png?raw=true) |
+| stock-duplicate              | Silk               | page_white_copy         | ![duplicate](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-duplicate-16.png?raw=true) | 
+| stock-dynamics               | Crystal Project    | move                    | ![channels](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-dynamics-c16.png?raw=true) |
+| stock-edit                   | Humanity Icons     | stock_edit              | ![edit](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-edit-c16.png?raw=true) |
+| stock-eye                    | Farm-fresh         | eye                     | ![eye](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-eye-16.png?raw=true) |
+| stock-image                  | 48px web iconset   | picture                 | ![picture](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-image-48.png?raw=true) |
+| stock-navigation             | Crystal Project    | move                    | ![navigation](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-navigation-c16.png?raw=true) |
+| stock-reset                  | Humanity Icons     | reload                  | ![reset](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-reset-c16.png?raw=true) |
