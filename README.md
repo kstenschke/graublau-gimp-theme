@@ -127,7 +127,7 @@ theme are not listed in the following reference.
 | gtk-paste                    | Farm-Fresh         | paste_plain             | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-paste.png?raw=true) |
 | gtk-redo                     | Discovery          | edit-redo               | ![redo](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-redo.png?raw=true) |
 | gtk-refresh                  | Momentics          | refresh1                | ![refresh](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-refresh.png?raw=true) |
-| gtk-restore                  | Farm-Fresh         | backup_and_restore      | ![refresh](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-refresh.png?raw=true) |
+| gtk-restore                  | Farm-Fresh         | backup_and_restore      | ![refresh](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-restore.png?raw=true) |
 | gtk-save                     | Farm-Fresh         | save                    | ![save](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-save.png?raw=true) |
 | gtk-save-as                  | Farm-Fresh         | save-as                 | ![save-as](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-save-as.png?raw=true) |
 | gtk-undo                     | Discovery          | edit-undo               | ![undo](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-undo.png?raw=true) |
