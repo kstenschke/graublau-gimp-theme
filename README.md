@@ -77,7 +77,7 @@ theme are not listed in the following reference.
 
 ###Tool Icons
 
-| GIMP Filename                   | Icon Set                      | Name                           | Icon |
+| GIMP Filename                   | Icon Set                      | Original Name                  | Icon |
 | ------------------------------- | ----------------------------- | ------------------------------ | ---- |
 | stock-tool-align                | Crystal Project               | stock_graphics-align-centered  | ![align](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-align-c16.png?raw=true) | 
 | stock-tool-blend                | Crystal Project               | gradient                       | ![blend](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-blend-c16.png?raw=true) | 
@@ -114,7 +114,7 @@ theme are not listed in the following reference.
 
 ###GTK and general purpose icons
 
-| Filename                     | Icon Set           | Name                    | Icon |
+| Resource Name                | Icon Set           | Original Name           | Icon |
 | ---------------------------- | ------------------ | ----------------------- | ---- |
 | gtk-cancel                   | Momenticons        | cancel                  | ![cancel](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-cancel.png?raw=true) |
 | gtk-delete                   | Momenticons        | delete                  | ![delete](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-delete.png?raw=true) |
