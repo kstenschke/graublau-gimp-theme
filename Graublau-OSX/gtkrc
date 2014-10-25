@@ -31,7 +31,7 @@ style "gimp-default-style"
   stock["gtk-revert-to-saved"] = {{ "images/gtk/stock-restore.png", *, *, * }}
   stock["gtk-save"]            = {{ "images/gtk/stock-save.png", *, *, * }}
   stock["gtk-save-as"]         = {{ "images/gtk/stock-save-as.png", *, *, * }}
-    stock["gtk-tip"]         = {{ "images/gtk/stock-save-as.png", *, *, * }}
+  stock["gtk-tip"]             = {{ "images/gtk/stock-save-as.png", *, *, * }}
   stock["gtk-select-color"]    =
     {
       { "images/gtk/select-color-c16.png", *, *, "gtk-menu" },
@@ -39,6 +39,7 @@ style "gimp-default-style"
       { "images/gtk/select-color-16.png", *, ACTIVE, "gtk-menu" }
     }
   stock["gtk-undo"]            = {{ "images/gtk/stock-undo.png", *, *, * }}
+  stock["gtk-quit"]            = {{ "images/gtk/stock-quit.png", *, *, * }}
 
 #font_name  = "Droid Sans 11"
 font_name   = "Lucida Grande 13" #default mac font

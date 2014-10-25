@@ -12,26 +12,27 @@ The icons used in this theme are based on icons from multiple different open sou
 Most of the icons have been altered in some ways to create an overall harmonic theme.
 
 
-| Icon Set                 |       Author          | Website                                    | License
-| ------------------------ | --------------------- | ------------------------------------------ | -------------------------------------------------
-| 48px web iconset         | Emey87                | http://emey87.deviantart.com/              | http://creativecommons.org/licenses/by-nd/3.0/
-| Basic Set                | Pixel Mixer           | http://www.pixel-mixer.com/                | Free for commercial use
-| Bijou                    | Visual Idiot          | http://visualidiot.com                     | WTFPL
-| Centigrade MedicalSeries | Centrigade            | http://www.centigrade.de/                  | http://creativecommons.org/licenses/by/3.0/us/
-| Crystal Project          | Everaldo Coelho       | http://www.everaldo.com/                   | http://www.gnu.org/copyleft/lesser.html
-| Diagona Icons            | Yusuke Kamiyamane     | http://p.yusukekamiyamane.com/             | http://creativecommons.org/licenses/by/3.0/
-| Discovery                | Hbons                 | http://hbons.deviantart.com                | http://creativecommons.org/licenses/by-sa/3.0/
-| Essen, Bremen, Stuttgart | PC.de                 | http://www.pc.de                           | http://creativecommons.org/licenses/by/3.0/
-| Farm-fresh               | FatCow Web Hosting    | http://www.fatcow.com/                     | http://creativecommons.org/licenses/by/3.0/us/
-| Fugue Icons              | P. Yusukekamiyamane   | http://p.yusukekamiyamane.com/             | http://creativecommons.org/licenses/by/3.0/
-| Humanity Icons           | Various               | https://launchpad.net/humanity             | http://www.gnu.org/licenses/gpl-2.0.html
-| Iconic                   | P.J. Onori            | http://somerandomdude.com/work/iconic/     | http://creativecommons.org/licenses/by-sa/3.0/us/
-| Momentum Glossy Icons    | Momentum Design Lab   | http://momentumdesignlab.com/              | http://creativecommons.org/licenses/by-sa/3.0/
-| Nuvola                   | David Vignoni         | http://www.icon-king.com/                  | http://www.gnu.org/licenses/lgpl.html
-| Silk                     | Marc James            | http://www.famfamfam.com/about/            | http://creativecommons.org/licenses/by/2.5/
-| Tango Icons              | Tango Desktop Project | http://tango.freedesktop.org/              | http://www.gnu.org/copyleft/gpl.html
-| Ultimate Gnome           | New Moon              | http://code.google.com/p/ultimate-gnome/   | http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
-| WooFunction Icon Set     | Liam McKay            | http://wefunction.com/                     | Free for commercial use 
+| Icon Set                 |       Author          | Website                                                          | License
+| ------------------------ | --------------------- | ---------------------------------------------------------------- | -------------------------------------------------
+| 48px web iconset         | Emey87                | http://emey87.deviantart.com/                                    | http://creativecommons.org/licenses/by-nd/3.0/
+| Basic Set                | Pixel Mixer           | http://www.pixel-mixer.com/                                      | Free for commercial use
+| Bijou                    | Visual Idiot          | http://visualidiot.com                                           | WTFPL
+| Centigrade MedicalSeries | Centrigade            | http://www.centigrade.de/                                        | http://creativecommons.org/licenses/by/3.0/us/
+| Circular                 | Ben Gillbanks         | http://prothemedesign.com/free-webdesign-tools/circular-icons/   | http://creativecommons.org/licenses/by/2.5/
+| Crystal Project          | Everaldo Coelho       | http://www.everaldo.com/                                         | http://www.gnu.org/copyleft/lesser.html
+| Diagona Icons            | Yusuke Kamiyamane     | http://p.yusukekamiyamane.com/                                   | http://creativecommons.org/licenses/by/3.0/
+| Discovery                | Hbons                 | http://hbons.deviantart.com                                      | http://creativecommons.org/licenses/by-sa/3.0/
+| Essen, Bremen, Stuttgart | PC.de                 | http://www.pc.de                                                 | http://creativecommons.org/licenses/by/3.0/
+| Farm-fresh               | FatCow Web Hosting    | http://www.fatcow.com/                                           | http://creativecommons.org/licenses/by/3.0/us/
+| Fugue Icons              | P. Yusukekamiyamane   | http://p.yusukekamiyamane.com/                                   | http://creativecommons.org/licenses/by/3.0/
+| Humanity Icons           | Various               | https://launchpad.net/humanity                                   | http://www.gnu.org/licenses/gpl-2.0.html
+| Iconic                   | P.J. Onori            | http://somerandomdude.com/work/iconic/                           | http://creativecommons.org/licenses/by-sa/3.0/us/
+| Momentum Glossy Icons    | Momentum Design Lab   | http://momentumdesignlab.com/                                    | http://creativecommons.org/licenses/by-sa/3.0/
+| Nuvola                   | David Vignoni         | http://www.icon-king.com/                                        | http://www.gnu.org/licenses/lgpl.html
+| Silk                     | Marc James            | http://www.famfamfam.com/about/                                  | http://creativecommons.org/licenses/by/2.5/
+| Tango Icons              | Tango Desktop Project | http://tango.freedesktop.org/                                    | http://www.gnu.org/copyleft/gpl.html
+| Ultimate Gnome           | New Moon              | http://code.google.com/p/ultimate-gnome/                         | http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+| WooFunction Icon Set     | Liam McKay            | http://wefunction.com/                                           | Free for commercial use 
 
 Flavors
 -------
@@ -101,7 +102,7 @@ theme are not listed in the following reference.
 | stock-tool-paintbrush           | Momentum Glossy               | paintbrush                     | ![paintbrush](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-paintbrush-c16.png?raw=true) | 
 | stock-tool-path                 | Farm Fresh                    | vector                         | ![path](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-path-c16.png?raw=true) | 
 | stock-tool-pencil               | Momentum Glossy               | pencil                         | ![pencil](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-pencil-c16.png?raw=true) | 
-| stock-tool-perspective          | Farm Fresh                    | transform_perspective          | ![perspective](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-perspective-c16.png?raw=true) | 
+| stock-tool-perspective          | Farm Fresh                    | transform_perspective          | ![perspective](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-perspective-c16.png?raw=true) |
 | stock-tool-rect-select          | Farm Fresh                    | select                         | ![rectselect](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-rect-select-c16.png?raw=true) | 
 | stock-tool-reset                | Tango Icons                   | go-jump                        | ![reset](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-reset-c16.png?raw=true) | 
 | stock-tool-rotate               | Farm Fresh                    | transform_rotate               | ![rotate](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-rotate-c16.png?raw=true) | 
@@ -125,6 +126,7 @@ theme are not listed in the following reference.
 | gtk-new                      | WooFunction        | add                     | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-new.png?raw=true) |
 | gtk-open                     | Nuvola             | folder_open             | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-open.png?raw=true) |
 | gtk-paste                    | Farm-Fresh         | paste_plain             | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-paste.png?raw=true) |
+| gtk-quit                     | Circular           | power_off               | ![quit](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-quit.png?raw=true) |
 | gtk-redo                     | Discovery          | edit-redo               | ![redo](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-redo.png?raw=true) |
 | gtk-refresh                  | Momentics          | refresh1                | ![refresh](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-refresh.png?raw=true) |
 | gtk-restore                  | Farm-Fresh         | backup_and_restore      | ![refresh](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-restore.png?raw=true) |
