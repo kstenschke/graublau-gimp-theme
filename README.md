@@ -143,3 +143,4 @@ theme are not listed in the following reference.
 | stock-image                  | 48px web iconset   | picture                 | ![picture](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-image-48.png?raw=true) |
 | stock-navigation             | Crystal Project    | move                    | ![navigation](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-navigation-c16.png?raw=true) |
 | stock-reset                  | Humanity Icons     | reload                  | ![reset](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-reset-c16.png?raw=true) |
+| stock-web                    | Farm-Fresh         | world                   | ![web](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-web-c16.png?raw=true) |
