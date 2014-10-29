@@ -51,6 +51,7 @@ style "gimp-default-style"
   stock["gtk-edit"]            = {{ "images/gtk/stock-edit.png", *, *, * }}
   stock["gtk-go-down"]         = {{ "images/gtk/stock-go-down.png", *, *, * }}
   stock["gtk-go-up"]           = {{ "images/gtk/stock-go-up.png", *, *, * }}
+  stock["gtk-help"]            = {{ "images/gtk/stock-help.png", *, *, * }}
   stock["gtk-new"]             = {{ "images/gtk/stock-new.png", *, *, * }}
   stock["gtk-open"]            = {{ "images/gtk/stock-open.png", *, *, * }}
   stock["gtk-paste"]           = {{ "images/gtk/stock-paste.png", *, *, * }}

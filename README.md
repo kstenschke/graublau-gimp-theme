@@ -25,6 +25,7 @@ Most of the icons have been altered in some ways to create an overall harmonic t
 | Essen, Bremen, Stuttgart | PC.de                 | http://www.pc.de                                                 | http://creativecommons.org/licenses/by/3.0/
 | Farm-fresh               | FatCow Web Hosting    | http://www.fatcow.com/                                           | http://creativecommons.org/licenses/by/3.0/us/
 | Fugue Icons              | P. Yusukekamiyamane   | http://p.yusukekamiyamane.com/                                   | http://creativecommons.org/licenses/by/3.0/
+| Gnome Icons              | Gnome Project         | http://art.gnome.org/themes/icon                                 | http://www.gnu.org/copyleft/gpl.html
 | Humanity Icons           | Various               | https://launchpad.net/humanity                                   | http://www.gnu.org/licenses/gpl-2.0.html
 | Iconic                   | P.J. Onori            | http://somerandomdude.com/work/iconic/                           | http://creativecommons.org/licenses/by-sa/3.0/us/
 | Momentum Glossy Icons    | Momentum Design Lab   | http://momentumdesignlab.com/                                    | http://creativecommons.org/licenses/by-sa/3.0/
@@ -123,6 +124,7 @@ theme are not listed in the following reference.
 | gtk-edit                     | Bremen             | edit                    | ![directory](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-edit.png?raw=true) |
 | gtk-go-down                  | Basic Set2         | arrow_down              | ![godown](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-down.png?raw=true) |
 | gtk-go-up                    | Basic Set2         | arrow_up                | ![goup](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-go-up.png?raw=true) |
+| gtk-help                     | Gnome Icons        | help                    | ![help](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-help.png?raw=true) |
 | gtk-new                      | WooFunction        | add                     | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-new.png?raw=true) |
 | gtk-open                     | Nuvola             | folder_open             | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-open.png?raw=true) |
 | gtk-paste                    | Farm-Fresh         | paste_plain             | ![new](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-paste.png?raw=true) |
