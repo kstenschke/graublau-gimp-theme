@@ -707,11 +707,11 @@ style "gimp-icons"
 #      { "images/stock-tool-options-16.png", *, *, "gtk-menu" },
 #      { "images/stock-tool-options-16.png", *, *, * }
 #    }
-#   stock["gimp-web"] =
-#    {
-#      { "images/stock-web-16.png", *, *, "gtk-menu" },
-#      { "images/stock-web-16.png", *, *, * }
-#    }
+   stock["gimp-web"] =
+    {
+      { "images/stock-web-c16.png", *, *, "gtk-menu" },
+      { "images/stock-web-c16.png", *, *, * }
+    }
 
 
 
