@@ -595,11 +595,11 @@ style "gimp-icons"
 #      { "images/stock-images-16.png", *, *, "gtk-menu" },
 #      { "images/stock-images-16.png", *, *, * }
 #    }
-#   stock["gimp-info"] =
-#    {
-#      { "images/stock-info-16.png", *, *, "gtk-button" },
-#      { "images/stock-info-16.png", *, *, *            }
-#    }
+stock["gimp-info"] =
+    {
+      { "images/stock-info-16.png", *, *, "gtk-button" },
+      { "images/stock-info-16.png", *, *, *            }
+    }
 #   stock["gimp-invert"] =
 #    {
 #      { "images/stock-invert-16.png", *, *, "gtk-button" },
