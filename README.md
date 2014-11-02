@@ -118,6 +118,7 @@ theme are not listed in the following reference.
 
 | Resource Name                | Icon Set           | Original Name           | Icon |
 | ---------------------------- | ------------------ | ----------------------- | ---- |
+| gimp-info                    | Fugue Icon         | light_bulb              | ![gimp-info](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/stock-info-16.png?raw=true) |
 | gtk-cancel                   | Momenticons        | cancel                  | ![cancel](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-cancel.png?raw=true) |
 | gtk-delete                   | Momenticons        | delete                  | ![delete](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-delete.png?raw=true) |
 | gtk-directory                | Essen              | folder                  | ![directory](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/gtk/stock-directory.png?raw=true) |
