@@ -1,5 +1,3 @@
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=kstenschke&url=https://github.com/kstenschke/graublau-gimp-theme/&title=graublau-gimp-theme&tags=github,gimp,theme&category=software)
-
 Graublau Icon Theme for the GIMP
 =================================
 ![Graublau Icon Theme](https://github.com/kstenschke/graublau-gimp-theme/blob/master/screenshot.png?raw=true)
