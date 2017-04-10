@@ -77,7 +77,7 @@ Icons from the original GIMP iconset that are used unchanged or with little adap
 theme are not listed in the following reference.
 
 
-###Tool Icons
+### Tool Icons
 
 | GIMP Filename                   | Icon Set                      | Original Name                  | Icon |
 | ------------------------------- | ----------------------------- | ------------------------------ | ---- |
@@ -114,7 +114,7 @@ theme are not listed in the following reference.
 | stock-tool-zoom                 | Momentum Glossy               | search                         | ![zoom](https://github.com/kstenschke/graublau-gimp-theme/blob/master/Graublau/images/tools/stock-tool-zoom-c16.png?raw=true) | 
 
 
-###GTK and general purpose icons
+### GTK and general purpose icons
 
 | Resource Name                | Icon Set           | Original Name           | Icon |
 | ---------------------------- | ------------------ | ----------------------- | ---- |
